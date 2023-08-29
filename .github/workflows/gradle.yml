@@ -3,10 +3,6 @@ name: Java CI with Gradle
 on:
   schedule:
     - cron:  '* * * * *'
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
 
 permissions:
   contents: read
