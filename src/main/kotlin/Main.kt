@@ -1,9 +1,11 @@
 import com.codeborne.selenide.Configuration
 import com.codeborne.selenide.Selenide.open
 import com.codeborne.selenide.WebDriverRunner
+import org.slf4j.LoggerFactory
 import java.io.File
 
 fun main() {
+  val log = LoggerFactory.getLogger("Tondiraba")
 
   Configuration.headless = true
   open("https://tondirabaicehall.ee/veebikalender/")
@@ -18,11 +20,11 @@ fun main() {
     val dayFile = File(dir, "${day.date}.json")
     val previous: Day? = dayFile.takeIf { it.exists() }?.readText()?.let { Day.deserialize(it) }
     if (previous == null) {
-      println("NEW DAY: ${day}")
+      log.info("Look! A new day has come: {}", day)
       dayFile.writeText(day.serialize())
     }
     else if (previous != day) {
-      println("ALERT! CHANGE\nfrom ${previous.serialize()}\nto ${day.serialize()}")
+      log.info("Look! Schedule has changed for {}\nfrom {}\nto {}", day.date, previous.serialize(), day.serialize())
       dayFile.writeText(day.serialize())
     }
   }
