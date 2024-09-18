@@ -31,7 +31,7 @@ jobs:
         pwd
         ls -las .
         ls -las .days
-        (ls -las ~/.cache/selenium/)
+        ls -las ~/.cache/selenium/ || echo "not found: ~/.cache/selenium/"
     - name: Run check
       run: ./gradlew run
     - name: Log results
@@ -40,4 +40,4 @@ jobs:
         pwd
         ls -las .
         ls -las .days
-        (ls -las ~/.cache/selenium/)
+        ls -las ~/.cache/selenium/ || echo "not found: ~/.cache/selenium/"
