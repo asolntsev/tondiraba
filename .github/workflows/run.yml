@@ -24,7 +24,14 @@ jobs:
         java-version: '21'
         distribution: 'temurin'
         cache: 'gradle'
-    - name: Build with Gradle
+    - name: Run check
       uses: gradle/gradle-build-action@v3
       with:
         arguments: run
+    - name: Log results
+      run: |
+        pwd
+        ls -las .
+        ls -las .days
+        ls -las ~/.cache/selenium/
+      shell: bash
