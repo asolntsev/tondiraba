@@ -16,7 +16,7 @@ fun main() {
   val dir = File(".days")
   dir.mkdirs()
 
-  days.forEach{day ->
+  days.forEach { day ->
     val dayFile = File(dir, "${day.date}.json")
     val previous: Day? = dayFile.takeIf { it.exists() }?.readText()?.let { Day.deserialize(it) }
     if (previous == null) {
