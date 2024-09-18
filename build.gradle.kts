@@ -1,5 +1,6 @@
 plugins {
-    kotlin("jvm") version "1.9.0"
+    kotlin("jvm") version "2.0.20"
+    kotlin("plugin.serialization") version "2.0.20"
     application
 }
 
@@ -12,7 +13,11 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"))
-    implementation("org.jsoup:jsoup:1.16.1")
+    implementation("com.codeborne:selenide:7.5.0")
+    implementation("org.jsoup:jsoup:1.18.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.2")
+    runtimeOnly("org.slf4j:slf4j-simple:2.0.16")
+    testImplementation("org.assertj:assertj-core:3.26.3")
 }
 
 tasks.test {
@@ -20,7 +25,7 @@ tasks.test {
 }
 
 kotlin {
-    jvmToolchain(8)
+    jvmToolchain(21)
 }
 
 application {
