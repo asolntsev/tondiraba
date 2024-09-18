@@ -18,6 +18,14 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+    - name: Cache Selenium webdriver
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/selenium
+        key: ${{ runner.os }}-selenium-${{ hashFiles('~/.cache/selenium') }}
+        restore-keys: |
+          ${{ runner.os }}-selenium-
+
     - name: Set up JDK 21
       uses: actions/setup-java@v4
       with:
@@ -43,4 +51,8 @@ jobs:
         ls -las ~/.cache/selenium/ || echo "not found: ~/.cache/selenium/"
     - name: Commit update data
       uses: stefanzweifel/git-auto-commit-action@v5
-      commit_message: "Updated schedule"
+      with:
+        file_pattern: '.days/*.json'
+        commit_message: "Update schedule"
+        skip_fetch: true
+        skip_checkout: true
