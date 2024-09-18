@@ -43,3 +43,4 @@ jobs:
         ls -las ~/.cache/selenium/ || echo "not found: ~/.cache/selenium/"
     - name: Commit update data
       uses: stefanzweifel/git-auto-commit-action@v5
+      commit_message: "Updated schedule"
