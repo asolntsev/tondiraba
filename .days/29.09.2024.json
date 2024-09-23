@@ -1,20 +1,4 @@
 {
     "date": "29.09.2024",
-    "slots": [
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "29.09.2024 09:20",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "29.09.2024 10:20",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "29.09.2024 12:50",
-            "resource": "Hall 2"
-        }
-    ]
+    "slots": []
 }
