@@ -3,6 +3,11 @@
     "slots": [
         {
             "type": "Ilu. vabajää",
+            "start": "29.09.2024 07:50",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
             "start": "29.09.2024 08:40",
             "resource": "Hall 2"
         },
@@ -23,7 +28,7 @@
         },
         {
             "type": "Vabajää",
-            "start": "29.09.2024 18:30",
+            "start": "29.09.2024 18:40",
             "resource": "Hall 1"
         }
     ]
