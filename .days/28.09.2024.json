@@ -2,6 +2,11 @@
     "date": "28.09.2024",
     "slots": [
         {
+            "type": "Ilu. vabajää",
+            "start": "28.09.2024 08:30",
+            "resource": "Hall 1"
+        },
+        {
             "type": "MTÜ Eesti Uisuliit",
             "start": "28.09.2024 12:00",
             "resource": "Hall 2"
@@ -25,6 +30,11 @@
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "28.09.2024 16:40",
             "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "28.09.2024 19:00",
+            "resource": "Hall 2"
         }
     ]
 }
