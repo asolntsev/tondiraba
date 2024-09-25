@@ -1,35 +1,4 @@
 {
     "date": "29.09.2024",
-    "slots": [
-        {
-            "type": "Ilu. vabajää",
-            "start": "29.09.2024 07:50",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "29.09.2024 08:40",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "29.09.2024 09:20",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "29.09.2024 10:20",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "29.09.2024 12:50",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Vabajää",
-            "start": "29.09.2024 18:40",
-            "resource": "Hall 1"
-        }
-    ]
+    "slots": []
 }
