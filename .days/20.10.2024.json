@@ -1,4 +1,15 @@
 {
     "date": "20.10.2024",
-    "slots": []
+    "slots": [
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "20.10.2024 09:20",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "20.10.2024 12:50",
+            "resource": "Peaareen"
+        }
+    ]
 }
