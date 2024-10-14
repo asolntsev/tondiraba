@@ -8,6 +8,11 @@
         },
         {
             "type": "Iluuisutamisklubi Talveunistus",
+            "start": "20.10.2024 10:20",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
             "start": "20.10.2024 12:50",
             "resource": "Peaareen"
         }
