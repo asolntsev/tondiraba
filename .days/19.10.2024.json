@@ -1,15 +1,4 @@
 {
     "date": "19.10.2024",
-    "slots": [
-        {
-            "type": "Ilu. vabajää",
-            "start": "19.10.2024 08:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "19.10.2024 09:00",
-            "resource": "Hall 1"
-        }
-    ]
+    "slots": []
 }
