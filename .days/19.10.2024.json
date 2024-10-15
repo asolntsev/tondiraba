@@ -1,35 +1,4 @@
 {
     "date": "19.10.2024",
-    "slots": [
-        {
-            "type": "Ilu. vabajää",
-            "start": "19.10.2024 08:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "19.10.2024 09:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "19.10.2024 12:00",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "19.10.2024 14:40",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "19.10.2024 15:40",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "19.10.2024 16:40",
-            "resource": "Peaareen"
-        }
-    ]
+    "slots": []
 }
