@@ -1,4 +1,35 @@
 {
     "date": "20.10.2024",
-    "slots": []
+    "slots": [
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "20.10.2024 09:20",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "20.10.2024 10:20",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "20.10.2024 12:40",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "20.10.2024 14:30",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "20.10.2024 15:30",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "20.10.2024 18:20",
+            "resource": "Peaareen"
+        }
+    ]
 }
