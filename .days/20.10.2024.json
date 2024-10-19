@@ -13,8 +13,18 @@
         },
         {
             "type": "Vabajää",
-            "start": "20.10.2024 12:30",
+            "start": "20.10.2024 12:40",
             "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "20.10.2024 14:30",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "20.10.2024 15:30",
+            "resource": "Hall 1"
         },
         {
             "type": "Vabajää",
