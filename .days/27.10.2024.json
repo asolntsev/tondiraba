@@ -1,0 +1,50 @@
+{
+    "date": "27.10.2024",
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "27.10.2024 09:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "27.10.2024 09:40",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "27.10.2024 10:20",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "27.10.2024 12:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "27.10.2024 13:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "27.10.2024 14:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "27.10.2024 15:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "27.10.2024 16:20",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "27.10.2024 19:50",
+            "resource": "Hall 1"
+        }
+    ]
+}

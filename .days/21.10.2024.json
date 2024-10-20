@@ -1,0 +1,40 @@
+{
+    "date": "21.10.2024",
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "21.10.2024 07:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "21.10.2024 08:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "21.10.2024 09:10",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "21.10.2024 10:10",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "21.10.2024 12:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "21.10.2024 14:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "21.10.2024 17:00",
+            "resource": "Peaareen"
+        }
+    ]
+}
