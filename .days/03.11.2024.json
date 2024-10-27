@@ -1,0 +1,20 @@
+{
+    "date": "03.11.2024",
+    "slots": [
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "03.11.2024 09:20",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "03.11.2024 10:20",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "03.11.2024 12:50",
+            "resource": "Hall 2"
+        }
+    ]
+}
