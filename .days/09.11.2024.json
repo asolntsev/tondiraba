@@ -25,6 +25,11 @@
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "09.11.2024 16:40",
             "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "09.11.2024 19:00",
+            "resource": "Hall 2"
         }
     ]
 }
