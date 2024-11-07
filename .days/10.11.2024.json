@@ -30,6 +30,11 @@
             "type": "Vabajää",
             "start": "10.11.2024 18:00",
             "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "10.11.2024 19:00",
+            "resource": "Peaareen"
         }
     ]
 }
