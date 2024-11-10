@@ -1,0 +1,50 @@
+{
+    "date": "11.11.2024",
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "11.11.2024 07:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "11.11.2024 08:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "11.11.2024 09:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "11.11.2024 10:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "11.11.2024 10:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "11.11.2024 11:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "11.11.2024 12:30",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "11.11.2024 14:10",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "11.11.2024 17:10",
+            "resource": "Hall 1"
+        }
+    ]
+}
