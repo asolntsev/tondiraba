@@ -2,6 +2,11 @@
     "date": "16.11.2024",
     "slots": [
         {
+            "type": "Ilu. vabajää",
+            "start": "16.11.2024 08:00",
+            "resource": "Peaareen"
+        },
+        {
             "type": "MTÜ Eesti Uisuliit",
             "start": "16.11.2024 12:00",
             "resource": "Hall 1"
