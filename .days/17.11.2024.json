@@ -15,6 +15,11 @@
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "17.11.2024 12:50",
             "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "17.11.2024 14:00",
+            "resource": "Hall 2"
         }
     ]
 }
