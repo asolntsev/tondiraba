@@ -1,4 +1,35 @@
 {
     "date": "17.11.2024",
-    "slots": []
+    "slots": [
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "17.11.2024 09:20",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "17.11.2024 10:20",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "17.11.2024 12:50",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "17.11.2024 14:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "17.11.2024 15:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "17.11.2024 18:00",
+            "resource": "Peaareen"
+        }
+    ]
 }
