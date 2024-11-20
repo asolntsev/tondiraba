@@ -43,6 +43,11 @@
         },
         {
             "type": "Vabajää",
+            "start": "24.11.2024 15:50",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
             "start": "24.11.2024 16:00",
             "resource": "Peaareen"
         }
