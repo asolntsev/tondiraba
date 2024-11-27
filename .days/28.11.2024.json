@@ -1,4 +1,75 @@
 {
     "date": "28.11.2024",
-    "slots": []
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "28.11.2024 07:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "28.11.2024 08:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "28.11.2024 08:15",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "28.11.2024 09:15",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "28.11.2024 10:15",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "28.11.2024 11:30",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "28.11.2024 12:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "28.11.2024 12:30",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "28.11.2024 13:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "28.11.2024 13:40",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "28.11.2024 14:30",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "28.11.2024 16:40",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "28.11.2024 17:10",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "28.11.2024 18:40",
+            "resource": "Peaareen"
+        }
+    ]
 }
