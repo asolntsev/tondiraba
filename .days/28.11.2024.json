@@ -3,13 +3,18 @@
     "slots": [
         {
             "type": "Vabajää",
-            "start": "28.11.2024 08:15",
+            "start": "28.11.2024 07:00",
             "resource": "Hall 1"
         },
         {
             "type": "Ilu. vabajää",
             "start": "28.11.2024 08:00",
             "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "28.11.2024 08:15",
+            "resource": "Hall 1"
         },
         {
             "type": "Vabajää",
