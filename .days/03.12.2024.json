@@ -1,0 +1,55 @@
+{
+    "date": "03.12.2024",
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "03.12.2024 07:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "03.12.2024 08:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "03.12.2024 09:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "03.12.2024 10:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "03.12.2024 11:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "03.12.2024 12:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "03.12.2024 13:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "03.12.2024 14:10",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "03.12.2024 17:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "03.12.2024 18:40",
+            "resource": "Hall 1"
+        }
+    ]
+}
