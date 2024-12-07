@@ -3,11 +3,6 @@
     "slots": [
         {
             "type": "Vabajää",
-            "start": "06.12.2024 07:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Vabajää",
             "start": "06.12.2024 08:00",
             "resource": "Hall 1"
         },
