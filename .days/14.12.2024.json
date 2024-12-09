@@ -12,9 +12,24 @@
             "resource": "Peaareen"
         },
         {
+            "type": "Ilu. vabajää",
+            "start": "14.12.2024 11:50",
+            "resource": "Hall 1"
+        },
+        {
             "type": "MTÜ Eesti Uisuliit",
             "start": "14.12.2024 12:00",
             "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "14.12.2024 13:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "14.12.2024 14:00",
+            "resource": "Hall 1"
         },
         {
             "type": "MTÜ Eesti Uisuliit",
@@ -35,6 +50,16 @@
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "14.12.2024 16:40",
             "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "14.12.2024 18:10",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "14.12.2024 19:00",
+            "resource": "Peaareen"
         }
     ]
 }
