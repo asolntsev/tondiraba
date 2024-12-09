@@ -2,8 +2,8 @@
     "date": "15.12.2024",
     "slots": [
         {
-            "type": "Vabajää",
-            "start": "15.12.2024 08:00",
+            "type": "Ilu. vabajää",
+            "start": "15.12.2024 08:40",
             "resource": "Hall 2"
         },
         {
@@ -22,6 +22,11 @@
             "resource": "Hall 1"
         },
         {
+            "type": "Ilu. vabajää",
+            "start": "15.12.2024 12:00",
+            "resource": "Peaareen"
+        },
+        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "15.12.2024 12:50",
             "resource": "Hall 2"
@@ -29,6 +34,16 @@
         {
             "type": "MTÜ Eesti Uisuliit",
             "start": "15.12.2024 13:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "15.12.2024 18:45",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "15.12.2024 19:45",
             "resource": "Peaareen"
         }
     ]
