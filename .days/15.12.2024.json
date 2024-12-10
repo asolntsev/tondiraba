@@ -48,12 +48,17 @@
         },
         {
             "type": "Vabajää",
-            "start": "15.12.2024 18:45",
+            "start": "15.12.2024 16:30",
             "resource": "Peaareen"
         },
         {
             "type": "Vabajää",
-            "start": "15.12.2024 19:45",
+            "start": "15.12.2024 17:30",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "15.12.2024 18:30",
             "resource": "Peaareen"
         }
     ]
