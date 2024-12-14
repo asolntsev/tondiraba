@@ -7,14 +7,14 @@
             "resource": "Hall 2"
         },
         {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "15.12.2024 09:20",
-            "resource": "Hall 1"
-        },
-        {
             "type": "MTÜ Eesti Uisuliit",
             "start": "15.12.2024 09:00",
             "resource": "Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "15.12.2024 09:20",
+            "resource": "Hall 1"
         },
         {
             "type": "Iluuisutamisklubi Talveunistus",
