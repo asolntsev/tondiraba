@@ -8,6 +8,11 @@
         },
         {
             "type": "Vabajää",
+            "start": "16.12.2024 08:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
             "start": "16.12.2024 09:00",
             "resource": "Peaareen"
         },
@@ -34,11 +39,6 @@
         {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "16.12.2024 14:30",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Vabajää",
-            "start": "16.12.2024 17:00",
             "resource": "Hall 2"
         },
         {
