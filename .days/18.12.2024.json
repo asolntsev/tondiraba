@@ -8,6 +8,11 @@
         },
         {
             "type": "Vabajää",
+            "start": "18.12.2024 08:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
             "start": "18.12.2024 09:00",
             "resource": "Hall 2"
         },
