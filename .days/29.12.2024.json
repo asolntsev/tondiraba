@@ -1,0 +1,30 @@
+{
+    "date": "29.12.2024",
+    "slots": [
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "29.12.2024 09:20",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "29.12.2024 10:20",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "29.12.2024 12:50",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "29.12.2024 14:50",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "29.12.2024 15:30",
+            "resource": "Hall 1"
+        }
+    ]
+}
