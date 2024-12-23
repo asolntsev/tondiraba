@@ -1,10 +1,4 @@
 {
     "date": "24.12.2024",
-    "slots": [
-        {
-            "type": "Vabajää",
-            "start": "24.12.2024 09:00",
-            "resource": "Hall 1"
-        }
-    ]
+    "slots": []
 }
