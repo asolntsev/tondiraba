@@ -10,6 +10,11 @@
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "29.12.2024 10:20",
             "resource": "Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "29.12.2024 10:40",
+            "resource": "Hall 2"
         }
     ]
 }
