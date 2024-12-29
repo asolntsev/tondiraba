@@ -3,11 +3,6 @@
     "slots": [
         {
             "type": "Vabajää",
-            "start": "27.12.2024 07:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Vabajää",
             "start": "27.12.2024 08:00",
             "resource": "Hall 1"
         },
@@ -27,14 +22,14 @@
             "resource": "Hall 1"
         },
         {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "27.12.2024 12:00",
-            "resource": "Hall 2"
-        },
-        {
             "type": "MTÜ Eesti Uisuliit",
             "start": "27.12.2024 12:20",
             "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "27.12.2024 12:00",
+            "resource": "Hall 2"
         },
         {
             "type": "Iluuisutamisklubi Talveunistus",
