@@ -1,25 +1,4 @@
 {
     "date": "01.01.2025",
-    "slots": [
-        {
-            "type": "Vabajää",
-            "start": "01.01.2025 13:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Vabajää",
-            "start": "01.01.2025 14:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "01.01.2025 17:00",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "01.01.2025 18:00",
-            "resource": "Hall 2"
-        }
-    ]
+    "slots": []
 }
