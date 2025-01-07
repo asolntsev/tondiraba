@@ -13,6 +13,11 @@
         },
         {
             "type": "Vabajää",
+            "start": "07.01.2025 08:50",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
             "start": "07.01.2025 10:00",
             "resource": "Hall 2"
         },
