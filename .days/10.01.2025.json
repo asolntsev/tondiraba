@@ -3,11 +3,6 @@
     "slots": [
         {
             "type": "Vabajää",
-            "start": "10.01.2025 07:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Vabajää",
             "start": "10.01.2025 08:05",
             "resource": "Hall 1"
         },
