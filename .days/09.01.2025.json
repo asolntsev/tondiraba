@@ -3,6 +3,11 @@
     "slots": [
         {
             "type": "Vabajää",
+            "start": "09.01.2025 07:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
             "start": "09.01.2025 08:00",
             "resource": "Hall 1"
         },
@@ -47,14 +52,14 @@
             "resource": "Hall 1"
         },
         {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "09.01.2025 16:50",
-            "resource": "Hall 2"
-        },
-        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "09.01.2025 16:40",
             "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "09.01.2025 16:50",
+            "resource": "Hall 2"
         },
         {
             "type": "MTÜ Eesti Uisuliit",
