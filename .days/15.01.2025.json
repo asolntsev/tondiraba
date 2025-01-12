@@ -1,0 +1,30 @@
+{
+    "date": "15.01.2025",
+    "slots": [
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "15.01.2025 10:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "15.01.2025 11:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "15.01.2025 13:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "15.01.2025 14:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "15.01.2025 17:00",
+            "resource": "Hall 2"
+        }
+    ]
+}
