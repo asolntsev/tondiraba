@@ -2,6 +2,11 @@
     "date": "15.01.2025",
     "slots": [
         {
+            "type": "Ilu. vabajää",
+            "start": "15.01.2025 07:50",
+            "resource": "Peaareen"
+        },
+        {
             "type": "MTÜ Eesti Uisuliit",
             "start": "15.01.2025 10:00",
             "resource": "Hall 2"
