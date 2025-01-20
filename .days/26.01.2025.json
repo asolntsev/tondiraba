@@ -1,40 +1,4 @@
 {
     "date": "26.01.2025",
-    "slots": [
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "26.01.2025 07:00",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "26.01.2025 07:00",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "26.01.2025 11:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "26.01.2025 12:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "26.01.2025 13:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "26.01.2025 14:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "26.01.2025 17:00",
-            "resource": "Hall 1"
-        }
-    ]
+    "slots": []
 }
