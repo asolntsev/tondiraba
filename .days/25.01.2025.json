@@ -1,4 +1,25 @@
 {
     "date": "25.01.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "25.01.2025 12:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "25.01.2025 13:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "25.01.2025 18:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "25.01.2025 19:00",
+            "resource": "Hall 1"
+        }
+    ]
 }
