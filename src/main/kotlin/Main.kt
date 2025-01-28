@@ -11,7 +11,7 @@ fun main() {
   open("https://tondirabaicehall.ee/veebikalender/")
 
   val parser = Parser()
-  val days = parser.read(WebDriverRunner.source().byteInputStream())
+  val days = parser.read(WebDriverRunner.source()!!.byteInputStream())
 
   val dir = File(".days")
   dir.mkdirs()
