@@ -1,4 +1,10 @@
 {
     "date": "02.02.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "02.02.2025 10:00",
+            "resource": "Peaareen"
+        }
+    ]
 }
