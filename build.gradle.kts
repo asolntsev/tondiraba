@@ -14,7 +14,7 @@ repositories {
 dependencies {
     testImplementation(kotlin("test"))
     implementation("com.codeborne:selenide:7.5.0")
-    implementation("org.jsoup:jsoup:1.18.1")
+    implementation("org.jsoup:jsoup:1.18.3")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.2")
     runtimeOnly("org.slf4j:slf4j-simple:2.0.16")
     testImplementation("org.assertj:assertj-core:3.26.3")
