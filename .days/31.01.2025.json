@@ -33,12 +33,37 @@
         },
         {
             "type": "MTÜ Eesti Uisuliit",
+            "start": "31.01.2025 11:35",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
             "start": "31.01.2025 13:10",
             "resource": "Hall 1"
         },
         {
             "type": "MTÜ Eesti Uisuliit",
-            "start": "31.01.2025 22:00",
+            "start": "31.01.2025 14:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "31.01.2025 15:30",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "31.01.2025 17:05",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "31.01.2025 20:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "31.01.2025 22:15",
             "resource": "Peaareen"
         }
     ]
