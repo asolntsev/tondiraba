@@ -3,6 +3,16 @@
     "slots": [
         {
             "type": "MTÜ Eesti Uisuliit",
+            "start": "30.01.2025 06:30",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "30.01.2025 07:40",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
             "start": "30.01.2025 08:50",
             "resource": "Peaareen"
         },
@@ -45,6 +55,11 @@
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "30.01.2025 20:30",
             "resource": "Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "30.01.2025 22:00",
+            "resource": "Peaareen"
         }
     ]
 }

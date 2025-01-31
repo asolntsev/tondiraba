@@ -1,4 +1,20 @@
 {
     "date": "27.01.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "27.01.2025 07:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "27.01.2025 07:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "27.01.2025 07:00",
+            "resource": "Peaareen"
+        }
+    ]
 }

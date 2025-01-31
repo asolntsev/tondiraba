@@ -60,6 +60,11 @@
             "type": "MTÜ Eesti Uisuliit",
             "start": "31.01.2025 20:00",
             "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "31.01.2025 22:15",
+            "resource": "Peaareen"
         }
     ]
 }

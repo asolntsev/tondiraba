@@ -3,6 +3,21 @@
     "slots": [
         {
             "type": "MTÜ Eesti Uisuliit",
+            "start": "28.01.2025 07:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "28.01.2025 07:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "28.01.2025 07:45",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
             "start": "28.01.2025 08:20",
             "resource": "Peaareen"
         },
@@ -88,13 +103,13 @@
         },
         {
             "type": "MTÜ Eesti Uisuliit",
-            "start": "28.01.2025 19:15",
-            "resource": "Hall 1"
+            "start": "28.01.2025 19:10",
+            "resource": "Peaareen"
         },
         {
             "type": "MTÜ Eesti Uisuliit",
-            "start": "28.01.2025 19:10",
-            "resource": "Peaareen"
+            "start": "28.01.2025 19:15",
+            "resource": "Hall 1"
         },
         {
             "type": "MTÜ Eesti Uisuliit",
@@ -105,6 +120,11 @@
             "type": "MTÜ Eesti Uisuliit",
             "start": "28.01.2025 20:20",
             "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "28.01.2025 21:35",
+            "resource": "Hall 1"
         }
     ]
 }
