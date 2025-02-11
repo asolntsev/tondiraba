@@ -23,8 +23,13 @@
         },
         {
             "type": "Vabajää",
+            "start": "13.02.2025 11:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
             "start": "13.02.2025 12:00",
-            "resource": "Hall 2"
+            "resource": "Hall 1"
         },
         {
             "type": "MTÜ Eesti Uisuliit",
