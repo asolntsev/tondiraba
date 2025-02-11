@@ -45,11 +45,6 @@
             "type": "Vabajää",
             "start": "16.02.2025 17:00",
             "resource": "Peaareen"
-        },
-        {
-            "type": "Vabajää",
-            "start": "16.02.2025 18:00",
-            "resource": "Peaareen"
         }
     ]
 }
