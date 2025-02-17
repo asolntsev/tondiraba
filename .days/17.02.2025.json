@@ -22,6 +22,11 @@
             "resource": "Hall 1"
         },
         {
+            "type": "Ilu. vabajää",
+            "start": "17.02.2025 10:00",
+            "resource": "Hall 2"
+        },
+        {
             "type": "Vabajää",
             "start": "17.02.2025 11:00",
             "resource": "Hall 1"
