@@ -3,6 +3,11 @@
     "slots": [
         {
             "type": "Vabajää",
+            "start": "17.02.2025 07:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
             "start": "17.02.2025 08:00",
             "resource": "Hall 2"
         },
@@ -37,14 +42,14 @@
             "resource": "Peaareen"
         },
         {
-            "type": "Vabajää",
-            "start": "17.02.2025 13:20",
-            "resource": "Hall 2"
-        },
-        {
             "type": "Ilu. vabajää",
             "start": "17.02.2025 13:00",
             "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "17.02.2025 13:20",
+            "resource": "Hall 2"
         },
         {
             "type": "Iluuisutamisklubi Talveunistus",
