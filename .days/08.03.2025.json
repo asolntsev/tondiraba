@@ -8,6 +8,16 @@
         },
         {
             "type": "Iluuisutamisklubi Talveunistus",
+            "start": "08.03.2025 15:40",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "08.03.2025 16:40",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
             "start": "08.03.2025 17:00",
             "resource": "Hall 2"
         },
