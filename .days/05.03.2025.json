@@ -1,45 +1,4 @@
 {
     "date": "05.03.2025",
-    "slots": [
-        {
-            "type": "Vabajää",
-            "start": "05.03.2025 07:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Vabajää",
-            "start": "05.03.2025 08:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Vabajää",
-            "start": "05.03.2025 09:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Vabajää",
-            "start": "05.03.2025 10:30",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "05.03.2025 11:30",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "05.03.2025 14:20",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "05.03.2025 16:30",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "05.03.2025 17:30",
-            "resource": "Hall 1"
-        }
-    ]
+    "slots": []
 }
