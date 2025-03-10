@@ -75,6 +75,11 @@
             "type": "MTÜ Eesti Uisuliit",
             "start": "13.03.2025 18:40",
             "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "13.03.2025 19:20",
+            "resource": "Hall 2"
         }
     ]
 }
