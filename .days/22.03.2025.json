@@ -8,11 +8,6 @@
         },
         {
             "type": "Iluuisutamisklubi Talveunistus",
-            "start": "22.03.2025 15:10",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
             "start": "22.03.2025 18:00",
             "resource": "Hall 2"
         },
@@ -24,11 +19,6 @@
         {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "22.03.2025 19:00",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "22.03.2025 20:00",
             "resource": "Peaareen"
         }
     ]
