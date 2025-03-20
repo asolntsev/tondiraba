@@ -1,25 +1,4 @@
 {
     "date": "22.03.2025",
-    "slots": [
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "22.03.2025 09:40",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "22.03.2025 18:00",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "22.03.2025 18:00",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "22.03.2025 19:00",
-            "resource": "Peaareen"
-        }
-    ]
+    "slots": []
 }
