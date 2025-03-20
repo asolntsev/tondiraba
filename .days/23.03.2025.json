@@ -40,6 +40,11 @@
             "type": "Vabajää",
             "start": "23.03.2025 15:50",
             "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "23.03.2025 17:20",
+            "resource": "Hall 2"
         }
     ]
 }
