@@ -25,6 +25,11 @@
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "29.03.2025 16:40",
             "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "29.03.2025 17:40",
+            "resource": "Peaareen"
         }
     ]
 }
