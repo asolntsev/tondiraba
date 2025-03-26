@@ -2,6 +2,11 @@
     "date": "30.03.2025",
     "slots": [
         {
+            "type": "Ilu. vabajää",
+            "start": "30.03.2025 08:40",
+            "resource": "Hall 2"
+        },
+        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "30.03.2025 09:20",
             "resource": "Peaareen"
