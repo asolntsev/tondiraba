@@ -22,14 +22,19 @@
             "resource": "Hall 2"
         },
         {
-            "type": "Vabajää",
-            "start": "02.04.2025 11:30",
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "02.04.2025 11:00",
             "resource": "Hall 1"
         },
         {
             "type": "MTÜ Eesti Uisuliit",
             "start": "02.04.2025 11:40",
             "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "02.04.2025 12:40",
+            "resource": "Hall 1"
         },
         {
             "type": "Ilu. vabajää",
