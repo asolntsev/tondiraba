@@ -4,27 +4,32 @@
         {
             "type": "Vabajää",
             "start": "04.04.2025 07:00",
-            "resource": "Hall 1"
+            "resource": "Hall 2"
         },
         {
             "type": "Vabajää",
             "start": "04.04.2025 08:00",
-            "resource": "Hall 1"
+            "resource": "Hall 2"
         },
         {
             "type": "Vabajää",
             "start": "04.04.2025 09:00",
-            "resource": "Hall 1"
+            "resource": "Hall 2"
         },
         {
             "type": "Vabajää",
             "start": "04.04.2025 10:00",
-            "resource": "Hall 1"
+            "resource": "Hall 2"
         },
         {
-            "type": "Vabajää",
-            "start": "04.04.2025 10:50",
-            "resource": "Hall 1"
+            "type": "Ilu. vabajää",
+            "start": "04.04.2025 10:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "04.04.2025 11:00",
+            "resource": "Peaareen"
         },
         {
             "type": "MTÜ Eesti Uisuliit",
