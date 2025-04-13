@@ -1,0 +1,40 @@
+{
+    "date": "19.04.2025",
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "19.04.2025 08:30",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "19.04.2025 11:50",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "19.04.2025 13:30",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "19.04.2025 17:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "19.04.2025 17:30",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "19.04.2025 18:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "19.04.2025 18:30",
+            "resource": "Peaareen"
+        }
+    ]
+}
