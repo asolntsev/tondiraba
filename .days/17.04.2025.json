@@ -2,14 +2,14 @@
     "date": "17.04.2025",
     "slots": [
         {
-            "type": "Vabajää",
+            "type": "Ilu. vabajää",
             "start": "17.04.2025 07:00",
-            "resource": "Hall 1"
+            "resource": "Peaareen"
         },
         {
-            "type": "Vabajää",
-            "start": "17.04.2025 08:00",
-            "resource": "Hall 1"
+            "type": "Ilu. vabajää",
+            "start": "17.04.2025 07:50",
+            "resource": "Peaareen"
         },
         {
             "type": "Vabajää",
