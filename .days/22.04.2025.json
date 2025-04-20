@@ -1,0 +1,60 @@
+{
+    "date": "22.04.2025",
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "22.04.2025 07:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "22.04.2025 08:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "22.04.2025 09:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "22.04.2025 10:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "22.04.2025 11:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "22.04.2025 11:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "22.04.2025 12:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "22.04.2025 14:10",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "22.04.2025 17:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "22.04.2025 18:30",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "22.04.2025 19:30",
+            "resource": "Peaareen"
+        }
+    ]
+}
