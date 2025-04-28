@@ -35,6 +35,11 @@
             "type": "Vabajää",
             "start": "03.05.2025 18:10",
             "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "03.05.2025 19:10",
+            "resource": "Peaareen"
         }
     ]
 }
