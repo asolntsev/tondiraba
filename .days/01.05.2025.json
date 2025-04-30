@@ -17,9 +17,19 @@
             "resource": "Hall 1"
         },
         {
+            "type": "Vabajää",
+            "start": "01.05.2025 15:00",
+            "resource": "Hall 2"
+        },
+        {
             "type": "Ilu. vabajää",
             "start": "01.05.2025 15:40",
             "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "01.05.2025 17:00",
+            "resource": "Hall 2"
         },
         {
             "type": "Ilu. vabajää",
