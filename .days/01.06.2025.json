@@ -1,0 +1,40 @@
+{
+    "date": "01.06.2025",
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "01.06.2025 09:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "01.06.2025 10:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "01.06.2025 11:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "01.06.2025 12:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "01.06.2025 13:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "01.06.2025 16:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "01.06.2025 17:00",
+            "resource": "Peaareen"
+        }
+    ]
+}
