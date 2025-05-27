@@ -37,8 +37,13 @@
             "resource": "Peaareen"
         },
         {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "30.05.2025 15:30",
+            "type": "Vabajää",
+            "start": "30.05.2025 15:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "30.05.2025 16:00",
             "resource": "Peaareen"
         },
         {
