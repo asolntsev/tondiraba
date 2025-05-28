@@ -1,4 +1,65 @@
 {
     "date": "28.05.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "28.05.2025 07:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "28.05.2025 08:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "28.05.2025 09:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "28.05.2025 10:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "28.05.2025 11:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "28.05.2025 11:20",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "28.05.2025 12:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "28.05.2025 12:20",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "28.05.2025 13:20",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "28.05.2025 14:20",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "28.05.2025 15:20",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "28.05.2025 16:30",
+            "resource": "Hall 1"
+        }
+    ]
 }
