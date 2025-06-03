@@ -8,8 +8,13 @@
         },
         {
             "type": "Ilu. vabajää",
-            "start": "07.06.2025 10:40",
-            "resource": "Hall 2"
+            "start": "07.06.2025 10:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "07.06.2025 11:00",
+            "resource": "Peaareen"
         },
         {
             "type": "Vabajää",
@@ -19,12 +24,12 @@
         {
             "type": "Vabajää",
             "start": "07.06.2025 17:15",
-            "resource": "Peaareen"
+            "resource": "Hall 2"
         },
         {
             "type": "Vabajää",
             "start": "07.06.2025 18:15",
-            "resource": "Peaareen"
+            "resource": "Hall 2"
         }
     ]
 }
