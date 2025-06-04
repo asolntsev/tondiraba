@@ -23,13 +23,13 @@
         },
         {
             "type": "Vabajää",
-            "start": "07.06.2025 17:15",
-            "resource": "Hall 2"
+            "start": "07.06.2025 17:10",
+            "resource": "Hall 1"
         },
         {
             "type": "Vabajää",
-            "start": "07.06.2025 18:15",
-            "resource": "Hall 2"
+            "start": "07.06.2025 18:10",
+            "resource": "Hall 1"
         }
     ]
 }
