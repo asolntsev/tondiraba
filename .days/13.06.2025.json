@@ -1,0 +1,50 @@
+{
+    "date": "13.06.2025",
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "13.06.2025 07:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "13.06.2025 08:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "13.06.2025 09:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "13.06.2025 10:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "13.06.2025 10:50",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "13.06.2025 14:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "13.06.2025 14:40",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "13.06.2025 15:40",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "13.06.2025 18:00",
+            "resource": "Hall 1"
+        }
+    ]
+}
