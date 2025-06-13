@@ -1,35 +1,4 @@
 {
     "date": "09.06.2025",
-    "slots": [
-        {
-            "type": "Vabajää",
-            "start": "09.06.2025 07:00",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Vabajää",
-            "start": "09.06.2025 08:00",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Vabajää",
-            "start": "09.06.2025 09:00",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "09.06.2025 11:00",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "09.06.2025 12:00",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "09.06.2025 15:40",
-            "resource": "Hall 1"
-        }
-    ]
+    "slots": []
 }
