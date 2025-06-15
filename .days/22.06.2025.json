@@ -1,0 +1,15 @@
+{
+    "date": "22.06.2025",
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "22.06.2025 11:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "22.06.2025 12:00",
+            "resource": "Hall 1"
+        }
+    ]
+}
