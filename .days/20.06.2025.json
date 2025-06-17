@@ -25,6 +25,11 @@
             "type": "Vabajää",
             "start": "20.06.2025 17:00",
             "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "20.06.2025 18:00",
+            "resource": "Hall 1"
         }
     ]
 }
