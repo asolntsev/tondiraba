@@ -1,4 +1,35 @@
 {
     "date": "20.06.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "20.06.2025 09:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "20.06.2025 10:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "20.06.2025 11:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "20.06.2025 15:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "20.06.2025 17:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "20.06.2025 18:00",
+            "resource": "Hall 1"
+        }
+    ]
 }
