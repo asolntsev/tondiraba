@@ -1,0 +1,20 @@
+{
+    "date": "28.06.2025",
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "28.06.2025 11:30",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "28.06.2025 14:10",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "28.06.2025 17:10",
+            "resource": "Hall 2"
+        }
+    ]
+}
