@@ -20,6 +20,11 @@
             "type": "Vabajää",
             "start": "28.06.2025 17:10",
             "resource": "Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "28.06.2025 18:10",
+            "resource": "Hall 1"
         }
     ]
 }
