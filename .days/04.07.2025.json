@@ -1,4 +1,25 @@
 {
     "date": "04.07.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "04.07.2025 08:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "04.07.2025 11:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "04.07.2025 15:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "04.07.2025 16:30",
+            "resource": "Hall 2"
+        }
+    ]
 }
