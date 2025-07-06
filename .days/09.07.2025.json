@@ -1,0 +1,20 @@
+{
+    "date": "09.07.2025",
+    "slots": [
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "09.07.2025 11:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "09.07.2025 15:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "09.07.2025 16:00",
+            "resource": "Hall 2"
+        }
+    ]
+}
