@@ -1,4 +1,15 @@
 {
     "date": "08.07.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "08.07.2025 08:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "08.07.2025 17:00",
+            "resource": "Hall 2"
+        }
+    ]
 }
