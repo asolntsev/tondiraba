@@ -1,0 +1,15 @@
+{
+    "date": "16.07.2025",
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "16.07.2025 10:20",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "16.07.2025 19:00",
+            "resource": "Hall 2"
+        }
+    ]
+}
