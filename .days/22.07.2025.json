@@ -1,0 +1,25 @@
+{
+    "date": "22.07.2025",
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "22.07.2025 11:30",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "22.07.2025 13:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "22.07.2025 14:30",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "22.07.2025 16:30",
+            "resource": "Hall 1"
+        }
+    ]
+}
