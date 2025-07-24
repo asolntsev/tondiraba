@@ -1,4 +1,15 @@
 {
     "date": "24.07.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "24.07.2025 08:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "24.07.2025 13:10",
+            "resource": "Hall 2"
+        }
+    ]
 }
