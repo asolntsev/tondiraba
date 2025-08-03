@@ -1,0 +1,35 @@
+{
+    "date": "09.08.2025",
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "09.08.2025 09:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "09.08.2025 11:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "09.08.2025 13:00",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "09.08.2025 15:30",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "09.08.2025 16:30",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "09.08.2025 17:30",
+            "resource": "Hall 1"
+        }
+    ]
+}
