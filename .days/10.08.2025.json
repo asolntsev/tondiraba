@@ -18,6 +18,11 @@
         },
         {
             "type": "Ilu. vabajää",
+            "start": "10.08.2025 13:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
             "start": "10.08.2025 15:10",
             "resource": "Hall 2"
         }
