@@ -1,0 +1,25 @@
+{
+    "date": "12.08.2025",
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "12.08.2025 08:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "12.08.2025 12:10",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "12.08.2025 13:10",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "12.08.2025 14:30",
+            "resource": "Hall 2"
+        }
+    ]
+}
