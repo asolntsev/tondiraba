@@ -1,4 +1,20 @@
 {
     "date": "07.08.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "07.08.2025 13:10",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "07.08.2025 14:10",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "07.08.2025 19:10",
+            "resource": "Hall 1"
+        }
+    ]
 }
