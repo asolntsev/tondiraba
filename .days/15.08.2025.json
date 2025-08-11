@@ -1,25 +1,4 @@
 {
     "date": "15.08.2025",
-    "slots": [
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "15.08.2025 13:00",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "15.08.2025 14:00",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "15.08.2025 15:00",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "15.08.2025 18:00",
-            "resource": "Hall 1"
-        }
-    ]
+    "slots": []
 }
