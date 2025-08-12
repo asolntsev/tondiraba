@@ -17,7 +17,7 @@ dependencies {
     implementation("org.jsoup:jsoup:1.21.1")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.9.0")
     runtimeOnly("org.slf4j:slf4j-simple:2.0.17")
-    testImplementation("org.assertj:assertj-core:3.27.3")
+    testImplementation("org.assertj:assertj-core:3.27.4")
 }
 
 tasks.test {
