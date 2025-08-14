@@ -20,6 +20,11 @@
             "type": "MTÜ Eesti Uisuliit",
             "start": "14.08.2025 18:00",
             "resource": "Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "14.08.2025 19:15",
+            "resource": "Hall 1"
         }
     ]
 }
