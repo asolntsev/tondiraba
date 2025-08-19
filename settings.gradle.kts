@@ -10,3 +10,12 @@ plugins {
 }
 
 rootProject.name = "tondiraba"
+
+dependencyResolutionManagement {
+  versionCatalogs {
+    create("libs") {
+      version("kotlin", "2.2.10")
+      library("kotlinx-serialization-json", "org.jetbrains.kotlinx:kotlinx-serialization-json:1.9.0")
+    }
+  }
+}
