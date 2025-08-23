@@ -1,30 +1,4 @@
 {
     "date": "24.08.2025",
-    "slots": [
-        {
-            "type": "Ilu. vabajää",
-            "start": "24.08.2025 09:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Vabajää",
-            "start": "24.08.2025 11:00",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Vabajää",
-            "start": "24.08.2025 12:00",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Vabajää",
-            "start": "24.08.2025 13:10",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Vabajää",
-            "start": "24.08.2025 15:10",
-            "resource": "Hall 2"
-        }
-    ]
+    "slots": []
 }
