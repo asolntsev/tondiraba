@@ -1,0 +1,15 @@
+{
+    "date": "30.08.2025",
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "30.08.2025 14:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "30.08.2025 15:00",
+            "resource": "Hall 1"
+        }
+    ]
+}
