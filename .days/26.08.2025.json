@@ -1,25 +1,4 @@
 {
     "date": "26.08.2025",
-    "slots": [
-        {
-            "type": "Ilu. vabajää",
-            "start": "26.08.2025 07:50",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "26.08.2025 13:10",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "26.08.2025 14:10",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "26.08.2025 16:20",
-            "resource": "Hall 1"
-        }
-    ]
+    "slots": []
 }
