@@ -1,15 +1,4 @@
 {
     "date": "31.08.2025",
-    "slots": [
-        {
-            "type": "Ilu. vabajää",
-            "start": "31.08.2025 09:00",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "31.08.2025 10:00",
-            "resource": "Hall 1"
-        }
-    ]
+    "slots": []
 }
