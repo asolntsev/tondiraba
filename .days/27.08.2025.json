@@ -1,4 +1,15 @@
 {
     "date": "27.08.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "27.08.2025 15:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "27.08.2025 16:00",
+            "resource": "Peaareen"
+        }
+    ]
 }
