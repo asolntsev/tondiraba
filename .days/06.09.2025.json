@@ -1,0 +1,40 @@
+{
+    "date": "06.09.2025",
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "06.09.2025 09:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "06.09.2025 11:45",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "06.09.2025 13:15",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "06.09.2025 15:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "06.09.2025 16:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "06.09.2025 17:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "06.09.2025 18:45",
+            "resource": "Hall 2"
+        }
+    ]
+}
