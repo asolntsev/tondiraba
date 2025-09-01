@@ -38,6 +38,11 @@
         },
         {
             "type": "MTÜ Eesti Uisuliit",
+            "start": "01.09.2025 17:05",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
             "start": "01.09.2025 19:00",
             "resource": "Hall 1"
         }
