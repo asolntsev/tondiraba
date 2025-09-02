@@ -3,6 +3,11 @@
     "slots": [
         {
             "type": "Vabajää",
+            "start": "05.09.2025 07:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Vabajää",
             "start": "05.09.2025 08:00",
             "resource": "Hall 2"
         },
@@ -28,13 +33,13 @@
         },
         {
             "type": "Ilu. vabajää",
-            "start": "05.09.2025 13:20",
-            "resource": "Hall 2"
+            "start": "05.09.2025 13:00",
+            "resource": "Peaareen"
         },
         {
             "type": "Ilu. vabajää",
-            "start": "05.09.2025 13:00",
-            "resource": "Peaareen"
+            "start": "05.09.2025 13:20",
+            "resource": "Hall 2"
         },
         {
             "type": "Iluuisutamisklubi Talveunistus",
