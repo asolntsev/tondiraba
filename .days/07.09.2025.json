@@ -2,6 +2,11 @@
     "date": "07.09.2025",
     "slots": [
         {
+            "type": "Ilu. vabajää",
+            "start": "07.09.2025 09:00",
+            "resource": "Peaareen"
+        },
+        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "07.09.2025 09:30",
             "resource": "Hall 1"
