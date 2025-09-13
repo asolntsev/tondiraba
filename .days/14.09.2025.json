@@ -1,40 +1,4 @@
 {
     "date": "14.09.2025",
-    "slots": [
-        {
-            "type": "Vabajää",
-            "start": "14.09.2025 09:00",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "14.09.2025 09:30",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "14.09.2025 10:30",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "14.09.2025 11:30",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "14.09.2025 13:00",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "14.09.2025 14:40",
-            "resource": "Hall 2"
-        },
-        {
-            "type": "Vabajää",
-            "start": "14.09.2025 18:40",
-            "resource": "Peaareen"
-        }
-    ]
+    "slots": []
 }
