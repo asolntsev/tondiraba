@@ -1,4 +1,25 @@
 {
     "date": "20.09.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "20.09.2025 11:45",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "20.09.2025 13:15",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "20.09.2025 18:45",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "20.09.2025 19:15",
+            "resource": "Hall 1"
+        }
+    ]
 }
