@@ -15,6 +15,11 @@
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "21.09.2025 11:20",
             "resource": "Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "21.09.2025 13:40",
+            "resource": "Hall 2"
         }
     ]
 }
