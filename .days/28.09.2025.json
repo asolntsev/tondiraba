@@ -1,0 +1,20 @@
+{
+    "date": "28.09.2025",
+    "slots": [
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "28.09.2025 09:20",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "28.09.2025 10:20",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "28.09.2025 11:20",
+            "resource": "Hall 1"
+        }
+    ]
+}
