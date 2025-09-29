@@ -22,6 +22,11 @@
             "resource": "Hall 2"
         },
         {
+            "type": "Vabajää",
+            "start": "02.10.2025 12:35",
+            "resource": "Hall 1"
+        },
+        {
             "type": "MTÜ Eesti Uisuliit",
             "start": "02.10.2025 12:50",
             "resource": "Hall 2"
