@@ -1,0 +1,30 @@
+{
+    "date": "25.10.2025",
+    "slots": [
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "25.10.2025 11:45",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "25.10.2025 13:15",
+            "resource": "Hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "25.10.2025 15:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "25.10.2025 16:00",
+            "resource": "Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "25.10.2025 17:00",
+            "resource": "Peaareen"
+        }
+    ]
+}
