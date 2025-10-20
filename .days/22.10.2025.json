@@ -2,6 +2,11 @@
     "date": "22.10.2025",
     "slots": [
         {
+            "type": "Ilu. vabajää",
+            "start": "22.10.2025 08:45",
+            "resource": "Peaareen"
+        },
+        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "22.10.2025 10:00",
             "resource": "Hall 2"
