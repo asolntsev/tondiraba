@@ -2,6 +2,11 @@
     "date": "25.10.2025",
     "slots": [
         {
+            "type": "Ilu. vabajää",
+            "start": "25.10.2025 09:15",
+            "resource": "Hall 2"
+        },
+        {
             "type": "MTÜ Eesti Uisuliit",
             "start": "25.10.2025 11:45",
             "resource": "Hall 2"
