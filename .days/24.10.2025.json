@@ -4,7 +4,7 @@
         {
             "type": "Vabajää",
             "start": "24.10.2025 07:00",
-            "resource": "Peaareen"
+            "resource": "Hall 2"
         },
         {
             "type": "Vabajää",
@@ -13,7 +13,7 @@
         },
         {
             "type": "Vabajää",
-            "start": "24.10.2025 09:00",
+            "start": "24.10.2025 08:50",
             "resource": "Hall 2"
         },
         {
@@ -25,6 +25,11 @@
             "type": "MTÜ Eesti Uisuliit",
             "start": "24.10.2025 11:50",
             "resource": "Hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "24.10.2025 12:00",
+            "resource": "Peaareen"
         },
         {
             "type": "Ilu. vabajää",

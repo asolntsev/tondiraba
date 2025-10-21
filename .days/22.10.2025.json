@@ -2,6 +2,11 @@
     "date": "22.10.2025",
     "slots": [
         {
+            "type": "Vabajää",
+            "start": "22.10.2025 07:00",
+            "resource": "Peaareen"
+        },
+        {
             "type": "Ilu. vabajää",
             "start": "22.10.2025 08:45",
             "resource": "Peaareen"
