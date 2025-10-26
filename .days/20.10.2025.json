@@ -1,4 +1,15 @@
 {
     "date": "20.10.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "20.10.2025 12:00",
+            "resource": "Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "20.10.2025 19:00",
+            "resource": "Hall 1"
+        }
+    ]
 }
