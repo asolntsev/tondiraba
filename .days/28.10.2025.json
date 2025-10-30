@@ -4,62 +4,27 @@
         {
             "type": "Vabajää",
             "start": "28.10.2025 08:00",
-            "resource": "Hall 2"
+            "resource": "TJH hall 2"
         },
         {
             "type": "Vabajää",
             "start": "28.10.2025 09:00",
-            "resource": "Peaareen"
+            "resource": "TJH Peaareen"
         },
         {
             "type": "Vabajää",
             "start": "28.10.2025 10:00",
-            "resource": "Peaareen"
+            "resource": "TJH Peaareen"
         },
         {
             "type": "Vabajää",
             "start": "28.10.2025 11:00",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "28.10.2025 12:00",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "Vabajää",
-            "start": "28.10.2025 12:30",
-            "resource": "Hall 2"
+            "resource": "TJH Peaareen"
         },
         {
             "type": "Ilu. vabajää",
             "start": "28.10.2025 13:00",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "28.10.2025 14:10",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "28.10.2025 16:10",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "28.10.2025 16:30",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "28.10.2025 17:10",
-            "resource": "Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "28.10.2025 17:45",
-            "resource": "Hall 2"
+            "resource": "TJH Peaareen"
         }
     ]
 }

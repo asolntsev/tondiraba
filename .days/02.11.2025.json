@@ -2,34 +2,14 @@
     "date": "02.11.2025",
     "slots": [
         {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "02.11.2025 09:20",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "02.11.2025 10:20",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "02.11.2025 11:20",
-            "resource": "Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "02.11.2025 13:00",
-            "resource": "Peaareen"
-        },
-        {
             "type": "Ilu. vabajää",
             "start": "02.11.2025 13:40",
-            "resource": "Hall 2"
+            "resource": "TJH hall 2"
         },
         {
             "type": "Vabajää",
             "start": "02.11.2025 18:30",
-            "resource": "Peaareen"
+            "resource": "TJH Peaareen"
         }
     ]
 }
