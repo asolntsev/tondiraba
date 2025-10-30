@@ -22,6 +22,11 @@
             "resource": "TJH Peaareen"
         },
         {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "27.10.2025 11:00",
+            "resource": "TJH Peaareen"
+        },
+        {
             "type": "Vabajää",
             "start": "27.10.2025 12:00",
             "resource": "TJH Peaareen"
@@ -30,6 +35,16 @@
             "type": "Ilu. vabajää",
             "start": "27.10.2025 13:00",
             "resource": "TJH Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "27.10.2025 17:05",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "27.10.2025 19:00",
+            "resource": "TJH Hall 1"
         }
     ]
 }
