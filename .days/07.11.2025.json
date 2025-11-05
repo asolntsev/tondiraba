@@ -12,6 +12,16 @@
             "resource": "TJH hall 2"
         },
         {
+            "type": "Ilu. vabajää",
+            "start": "07.11.2025 10:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "07.11.2025 11:00",
+            "resource": "TJH Hall 1"
+        },
+        {
             "type": "MTÜ Eesti Uisuliit",
             "start": "07.11.2025 11:50",
             "resource": "TJH hall 2"
