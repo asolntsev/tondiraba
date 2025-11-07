@@ -20,6 +20,11 @@
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "08.11.2025 16:00",
             "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "08.11.2025 17:45",
+            "resource": "TJH hall 2"
         }
     ]
 }
