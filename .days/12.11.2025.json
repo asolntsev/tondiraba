@@ -4,6 +4,11 @@
         {
             "type": "Vabajää",
             "start": "12.11.2025 07:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "12.11.2025 07:00",
             "resource": "TJH Peaareen"
         },
         {
