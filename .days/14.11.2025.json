@@ -35,6 +35,11 @@
             "type": "MTÜ Eesti Uisuliit",
             "start": "14.11.2025 18:20",
             "resource": "TJH hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "14.11.2025 18:30",
+            "resource": "TJH Hall 1"
         }
     ]
 }
