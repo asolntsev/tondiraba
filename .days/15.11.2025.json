@@ -1,4 +1,25 @@
 {
     "date": "15.11.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "15.11.2025 11:45",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "15.11.2025 13:15",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "15.11.2025 15:30",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "15.11.2025 18:30",
+            "resource": "TJH Hall 1"
+        }
+    ]
 }
