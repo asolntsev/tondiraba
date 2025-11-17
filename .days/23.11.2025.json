@@ -18,6 +18,11 @@
         },
         {
             "type": "Vabajää",
+            "start": "23.11.2025 13:40",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
             "start": "23.11.2025 18:30",
             "resource": "TJH Peaareen"
         }
