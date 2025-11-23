@@ -1,4 +1,25 @@
 {
     "date": "23.11.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "23.11.2025 09:20",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "23.11.2025 10:20",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "23.11.2025 11:20",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "23.11.2025 18:30",
+            "resource": "TJH Peaareen"
+        }
+    ]
 }
