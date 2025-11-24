@@ -1,15 +1,4 @@
 {
     "date": "29.11.2025",
-    "slots": [
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "29.11.2025 11:45",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "29.11.2025 13:15",
-            "resource": "TJH hall 2"
-        }
-    ]
+    "slots": []
 }
