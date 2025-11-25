@@ -3,6 +3,16 @@
     "slots": [
         {
             "type": "Vabajää",
+            "start": "26.11.2025 08:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "26.11.2025 09:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
             "start": "26.11.2025 10:00",
             "resource": "TJH Hall 1"
         },
