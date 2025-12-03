@@ -1,4 +1,15 @@
 {
     "date": "06.12.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "06.12.2025 11:45",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "06.12.2025 13:15",
+            "resource": "TJH hall 2"
+        }
+    ]
 }
