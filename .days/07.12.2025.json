@@ -15,6 +15,11 @@
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "07.12.2025 11:20",
             "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "07.12.2025 13:40",
+            "resource": "TJH hall 2"
         }
     ]
 }
