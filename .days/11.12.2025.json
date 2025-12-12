@@ -1,4 +1,55 @@
 {
     "date": "11.12.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "11.12.2025 08:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "11.12.2025 09:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "11.12.2025 10:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "11.12.2025 11:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "11.12.2025 12:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "11.12.2025 13:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "11.12.2025 14:35",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "11.12.2025 15:35",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "11.12.2025 17:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "11.12.2025 18:30",
+            "resource": "TJH Peaareen"
+        }
+    ]
 }
