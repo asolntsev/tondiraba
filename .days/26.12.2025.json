@@ -1,4 +1,65 @@
 {
     "date": "26.12.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "26.12.2025 08:30",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "26.12.2025 10:30",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "26.12.2025 11:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "26.12.2025 12:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "26.12.2025 12:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "26.12.2025 14:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "26.12.2025 15:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "26.12.2025 15:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "26.12.2025 16:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "26.12.2025 16:30",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "26.12.2025 17:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "26.12.2025 18:00",
+            "resource": "TJH Peaareen"
+        }
+    ]
 }
