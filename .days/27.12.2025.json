@@ -1,25 +1,4 @@
 {
     "date": "27.12.2025",
-    "slots": [
-        {
-            "type": "Vabajää",
-            "start": "27.12.2025 10:00",
-            "resource": "TJH Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "27.12.2025 15:00",
-            "resource": "TJH Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "27.12.2025 16:00",
-            "resource": "TJH Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "27.12.2025 17:00",
-            "resource": "TJH Peaareen"
-        }
-    ]
+    "slots": []
 }
