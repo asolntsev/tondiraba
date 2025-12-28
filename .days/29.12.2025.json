@@ -1,0 +1,45 @@
+{
+    "date": "29.12.2025",
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "29.12.2025 07:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "29.12.2025 08:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "29.12.2025 11:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "29.12.2025 12:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "29.12.2025 12:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "29.12.2025 12:20",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "29.12.2025 17:05",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "29.12.2025 19:00",
+            "resource": "TJH Hall 1"
+        }
+    ]
+}

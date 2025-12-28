@@ -1,0 +1,15 @@
+{
+    "date": "31.12.2025",
+    "slots": [
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "31.12.2025 11:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "31.12.2025 19:00",
+            "resource": "TJH Hall 1"
+        }
+    ]
+}
