@@ -23,6 +23,16 @@
         },
         {
             "type": "Vabajää",
+            "start": "28.12.2025 16:40",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "28.12.2025 17:40",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
             "start": "28.12.2025 18:30",
             "resource": "TJH Peaareen"
         }
