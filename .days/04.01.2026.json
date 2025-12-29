@@ -2,24 +2,24 @@
     "date": "04.01.2026",
     "slots": [
         {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "04.01.2026 09:20",
-            "resource": "TJH Hall 1"
-        },
-        {
             "type": "Vabajää",
             "start": "04.01.2026 09:00",
             "resource": "TJH Peaareen"
         },
         {
             "type": "Iluuisutamisklubi Talveunistus",
-            "start": "04.01.2026 10:20",
+            "start": "04.01.2026 09:20",
             "resource": "TJH Hall 1"
         },
         {
             "type": "Vabajää",
             "start": "04.01.2026 10:00",
             "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "04.01.2026 10:20",
+            "resource": "TJH Hall 1"
         },
         {
             "type": "Iluuisutamisklubi Talveunistus",

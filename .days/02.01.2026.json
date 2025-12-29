@@ -3,6 +3,11 @@
     "slots": [
         {
             "type": "Vabajää",
+            "start": "02.01.2026 07:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
             "start": "02.01.2026 09:00",
             "resource": "TJH Hall 1"
         },
