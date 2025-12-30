@@ -1,45 +1,4 @@
 {
     "date": "04.01.2026",
-    "slots": [
-        {
-            "type": "Vabajää",
-            "start": "04.01.2026 09:00",
-            "resource": "TJH Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "04.01.2026 09:20",
-            "resource": "TJH Hall 1"
-        },
-        {
-            "type": "Vabajää",
-            "start": "04.01.2026 10:00",
-            "resource": "TJH Peaareen"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "04.01.2026 10:20",
-            "resource": "TJH Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "04.01.2026 11:20",
-            "resource": "TJH Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "04.01.2026 13:00",
-            "resource": "TJH Peaareen"
-        },
-        {
-            "type": "Vabajää",
-            "start": "04.01.2026 13:40",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "Vabajää",
-            "start": "04.01.2026 18:30",
-            "resource": "TJH Peaareen"
-        }
-    ]
+    "slots": []
 }
