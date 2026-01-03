@@ -1,4 +1,25 @@
 {
     "date": "31.12.2025",
-    "slots": []
+    "slots": [
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "31.12.2025 11:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "31.12.2025 12:40",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "31.12.2025 14:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "31.12.2025 14:45",
+            "resource": "TJH hall 2"
+        }
+    ]
 }
