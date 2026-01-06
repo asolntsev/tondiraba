@@ -2,11 +2,6 @@
     "date": "11.01.2026",
     "slots": [
         {
-            "type": "Vabajää",
-            "start": "11.01.2026 09:00",
-            "resource": "TJH Peaareen"
-        },
-        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "11.01.2026 09:20",
             "resource": "TJH Hall 1"
