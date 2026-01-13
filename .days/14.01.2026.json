@@ -18,6 +18,11 @@
         },
         {
             "type": "Vabajää",
+            "start": "14.01.2026 09:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
             "start": "14.01.2026 10:00",
             "resource": "TJH Hall 1"
         },
