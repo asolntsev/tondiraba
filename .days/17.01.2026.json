@@ -35,6 +35,16 @@
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "17.01.2026 17:00",
             "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "17.01.2026 17:45",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "17.01.2026 19:45",
+            "resource": "TJH hall 2"
         }
     ]
 }
