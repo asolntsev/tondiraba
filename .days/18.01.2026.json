@@ -22,9 +22,19 @@
             "resource": "TJH Hall 1"
         },
         {
+            "type": "Vabajää",
+            "start": "18.01.2026 12:00",
+            "resource": "TJH Peaareen"
+        },
+        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "18.01.2026 13:00",
             "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "18.01.2026 17:00",
+            "resource": "TJH hall 2"
         },
         {
             "type": "Vabajää",
