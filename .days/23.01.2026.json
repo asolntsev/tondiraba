@@ -60,6 +60,11 @@
             "type": "MTÜ Eesti Uisuliit",
             "start": "23.01.2026 19:05",
             "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "23.01.2026 20:00",
+            "resource": "TJH Peaareen"
         }
     ]
 }

@@ -7,9 +7,24 @@
             "resource": "TJH Peaareen"
         },
         {
+            "type": "Vabajää",
+            "start": "24.01.2026 09:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "24.01.2026 10:00",
+            "resource": "TJH Hall 1"
+        },
+        {
             "type": "MTÜ Eesti Uisuliit",
             "start": "24.01.2026 11:45",
             "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "24.01.2026 13:00",
+            "resource": "TJH Peaareen"
         },
         {
             "type": "MTÜ Eesti Uisuliit",
