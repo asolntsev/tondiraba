@@ -40,6 +40,11 @@
             "type": "Ilu. vabajää",
             "start": "19.01.2026 13:45",
             "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "19.01.2026 17:35",
+            "resource": "TJH Peaareen"
         }
     ]
 }
