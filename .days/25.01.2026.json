@@ -40,11 +40,6 @@
             "type": "Vabajää",
             "start": "25.01.2026 18:30",
             "resource": "TJH Peaareen"
-        },
-        {
-            "type": "Vabajää",
-            "start": "25.01.2026 20:00",
-            "resource": "TJH hall 2"
         }
     ]
 }
