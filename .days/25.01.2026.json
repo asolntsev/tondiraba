@@ -33,7 +33,17 @@
         },
         {
             "type": "Vabajää",
-            "start": "25.01.2026 13:30",
+            "start": "25.01.2026 13:40",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "25.01.2026 14:20",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "25.01.2026 17:10",
             "resource": "TJH hall 2"
         },
         {
