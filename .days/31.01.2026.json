@@ -1,30 +1,4 @@
 {
     "date": "31.01.2026",
-    "slots": [
-        {
-            "type": "Vabajää",
-            "start": "31.01.2026 08:00",
-            "resource": "TJH Peaareen"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "31.01.2026 11:45",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "31.01.2026 13:05",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "31.01.2026 15:15",
-            "resource": "TJH Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "31.01.2026 17:00",
-            "resource": "TJH Peaareen"
-        }
-    ]
+    "slots": []
 }
