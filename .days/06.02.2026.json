@@ -1,0 +1,70 @@
+{
+    "date": "06.02.2026",
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "06.02.2026 07:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "06.02.2026 08:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "06.02.2026 09:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "06.02.2026 10:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "06.02.2026 11:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "06.02.2026 11:50",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "06.02.2026 13:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "06.02.2026 14:20",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "06.02.2026 15:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "06.02.2026 17:35",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "06.02.2026 18:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "06.02.2026 19:05",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "06.02.2026 20:00",
+            "resource": "TJH Peaareen"
+        }
+    ]
+}
