@@ -3,7 +3,17 @@
     "slots": [
         {
             "type": "Vabajää",
+            "start": "04.02.2026 07:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
             "start": "04.02.2026 08:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "04.02.2026 09:00",
             "resource": "TJH hall 2"
         },
         {

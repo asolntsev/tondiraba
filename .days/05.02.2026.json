@@ -23,6 +23,11 @@
         },
         {
             "type": "Vabajää",
+            "start": "05.02.2026 11:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
             "start": "05.02.2026 12:00",
             "resource": "TJH Peaareen"
         },
