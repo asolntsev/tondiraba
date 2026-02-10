@@ -8,6 +8,11 @@
         },
         {
             "type": "Vabajää",
+            "start": "11.02.2026 09:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
             "start": "11.02.2026 10:00",
             "resource": "TJH Hall 1"
         },
