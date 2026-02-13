@@ -2,11 +2,6 @@
     "date": "13.02.2026",
     "slots": [
         {
-            "type": "Ilu. vabajää",
-            "start": "13.02.2026 07:00",
-            "resource": "TJH Peaareen"
-        },
-        {
             "type": "Vabajää",
             "start": "13.02.2026 08:00",
             "resource": "TJH hall 2"
