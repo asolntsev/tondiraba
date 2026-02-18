@@ -1,4 +1,55 @@
 {
     "date": "19.02.2026",
-    "slots": []
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "19.02.2026 08:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "19.02.2026 09:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "19.02.2026 10:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "19.02.2026 11:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "19.02.2026 12:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "19.02.2026 13:35",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "19.02.2026 14:35",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "19.02.2026 15:35",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "19.02.2026 17:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "19.02.2026 18:30",
+            "resource": "TJH Peaareen"
+        }
+    ]
 }
