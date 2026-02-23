@@ -2,6 +2,11 @@
     "date": "24.02.2026",
     "slots": [
         {
+            "type": "Ilu. vabajää",
+            "start": "24.02.2026 07:00",
+            "resource": "TJH Hall 1"
+        },
+        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "24.02.2026 11:00",
             "resource": "TJH hall 2"
@@ -19,6 +24,11 @@
         {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "24.02.2026 13:45",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "24.02.2026 15:45",
             "resource": "TJH hall 2"
         },
         {
