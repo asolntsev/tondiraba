@@ -1,4 +1,15 @@
 {
     "date": "28.02.2026",
-    "slots": []
+    "slots": [
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "28.02.2026 11:45",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "28.02.2026 13:15",
+            "resource": "TJH hall 2"
+        }
+    ]
 }
