@@ -1,4 +1,25 @@
 {
     "date": "25.02.2026",
-    "slots": []
+    "slots": [
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "25.02.2026 11:10",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "25.02.2026 12:30",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "25.02.2026 12:45",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "MTÜ Eesti Uisuliit",
+            "start": "25.02.2026 19:00",
+            "resource": "TJH Hall 1"
+        }
+    ]
 }
