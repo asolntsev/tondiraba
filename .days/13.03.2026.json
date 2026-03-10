@@ -2,7 +2,7 @@
     "date": "13.03.2026",
     "slots": [
         {
-            "type": "Vabajää",
+            "type": "Ilu. vabajää",
             "start": "13.03.2026 08:00",
             "resource": "TJH hall 2"
         },
@@ -17,14 +17,14 @@
             "resource": "TJH Hall 1"
         },
         {
-            "type": "Ilu. vabajää",
-            "start": "13.03.2026 10:50",
-            "resource": "TJH hall 2"
-        },
-        {
             "type": "Vabajää",
             "start": "13.03.2026 11:00",
             "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "13.03.2026 11:50",
+            "resource": "TJH hall 2"
         },
         {
             "type": "Iluuisutamisklubi Talveunistus",
