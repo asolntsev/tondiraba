@@ -1,15 +1,4 @@
 {
     "date": "14.03.2026",
-    "slots": [
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "14.03.2026 11:45",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "14.03.2026 13:15",
-            "resource": "TJH hall 2"
-        }
-    ]
+    "slots": []
 }
