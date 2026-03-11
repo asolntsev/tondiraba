@@ -17,14 +17,14 @@
             "resource": "TJH Hall 1"
         },
         {
+            "type": "Ilu. vabajää",
+            "start": "11.03.2026 10:50",
+            "resource": "TJH hall 2"
+        },
+        {
             "type": "Vabajää",
             "start": "11.03.2026 11:00",
             "resource": "TJH Hall 1"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "11.03.2026 11:00",
-            "resource": "TJH hall 2"
         },
         {
             "type": "MTÜ Eesti Uisuliit",
