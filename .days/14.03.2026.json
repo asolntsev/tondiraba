@@ -10,6 +10,11 @@
             "type": "MTÜ Eesti Uisuliit",
             "start": "14.03.2026 13:15",
             "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "14.03.2026 20:45",
+            "resource": "TJH hall 2"
         }
     ]
 }
