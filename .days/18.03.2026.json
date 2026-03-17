@@ -23,6 +23,11 @@
         },
         {
             "type": "Vabajää",
+            "start": "18.03.2026 10:45",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
             "start": "18.03.2026 11:00",
             "resource": "TJH Hall 1"
         },
