@@ -22,6 +22,11 @@
             "resource": "TJH Hall 1"
         },
         {
+            "type": "Vabajää",
+            "start": "05.04.2026 11:00",
+            "resource": "TJH Peaareen"
+        },
+        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "05.04.2026 11:20",
             "resource": "TJH Hall 1"
@@ -29,6 +34,16 @@
         {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "05.04.2026 12:40",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "05.04.2026 13:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "05.04.2026 17:10",
             "resource": "TJH hall 2"
         },
         {
