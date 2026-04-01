@@ -2,11 +2,6 @@
     "date": "02.04.2026",
     "slots": [
         {
-            "type": "Vabajää",
-            "start": "02.04.2026 08:00",
-            "resource": "TJH hall 2"
-        },
-        {
             "type": "Ilu. vabajää",
             "start": "02.04.2026 08:00",
             "resource": "TJH Peaareen"
