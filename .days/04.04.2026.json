@@ -1,10 +1,4 @@
 {
     "date": "04.04.2026",
-    "slots": [
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "04.04.2026 11:45",
-            "resource": "TJH hall 2"
-        }
-    ]
+    "slots": []
 }
