@@ -2,11 +2,6 @@
     "date": "30.03.2026",
     "slots": [
         {
-            "type": "Ilu. vabajää",
-            "start": "30.03.2026 07:00",
-            "resource": "TJH Peaareen"
-        },
-        {
             "type": "Vabajää",
             "start": "30.03.2026 08:00",
             "resource": "TJH hall 2"
