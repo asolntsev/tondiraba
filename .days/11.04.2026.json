@@ -5,6 +5,11 @@
             "type": "MTÜ Eesti Uisuliit",
             "start": "11.04.2026 11:45",
             "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "11.04.2026 19:15",
+            "resource": "TJH Hall 1"
         }
     ]
 }
