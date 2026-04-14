@@ -40,6 +40,9 @@ jobs:
         ls -las .days
         ls -las ~/.cache/selenium/ || echo "not found: ~/.cache/selenium/"
     - name: Run check
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       run: ./gradlew run
     - name: Log results
       shell: bash
