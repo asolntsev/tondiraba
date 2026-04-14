@@ -2,7 +2,7 @@ name: Check for schedule updates
 
 on:
   schedule:
-    - cron:  '* * * * *'
+    - cron:  '*/15 * * * *'
   push:
     branches:
       - main
