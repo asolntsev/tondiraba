@@ -2,6 +2,11 @@
     "date": "16.04.2026",
     "slots": [
         {
+            "type": "Ilu. vabajää",
+            "start": "16.04.2026 07:45",
+            "resource": "TJH hall 2"
+        },
+        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "16.04.2026 14:35",
             "resource": "TJH Hall 1"
