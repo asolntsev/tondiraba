@@ -21,6 +21,7 @@ Three Kotlin files in `src/main/kotlin/` plus one fixture-based test:
 - `Parser.kt` — uses jsoup to walk `.CCALdayCol` → `.CCALhour .CCALinterval .CCALevent`, extracting `data-name` / `data-start` / `data-resource`, and filters by `TYPES_OF_INTEREST`. Change this constant to track different slot types.
 - `Day.kt` — `Day(date, slots)` and `Slot(type, start, resource)`, both `@Serializable` with `kotlinx.serialization`. `Json { prettyPrint = true }` is deliberate so diffs in git are readable.
 - `Notifier.kt` — posts plain-text messages to the Telegram Bot API using `java.net.http.HttpClient`. Reads `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` from env and is a silent no-op if either is unset, so local runs and CI without secrets don't fail. Messages are truncated to 4000 chars (Telegram's limit is 4096).
+- `Quotes.kt` + `src/main/resources/quotes.txt` — loads a list of Russian one-liners at startup. `quotes.txt` is one quote per line; blank lines and `#`-prefixed lines are ignored. `Main.kt` appends `Quotes.random()` to every Telegram notification. To add/remove quotes, just edit the text file — no code change needed.
 
 `ParserTest` asserts against `src/test/resources/source.html` (a captured snapshot of the live page). If the site's HTML structure changes, refresh that fixture before adjusting selectors.
 

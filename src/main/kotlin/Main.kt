@@ -37,7 +37,7 @@ fun main() {
   }
 
   if (changes.isNotEmpty()) {
-    Notifier().send(changes.joinToString("\n\n"))
+    Notifier().send(changes.joinToString("\n\n") + "\n\n" + Quotes.random())
   }
 }
 
