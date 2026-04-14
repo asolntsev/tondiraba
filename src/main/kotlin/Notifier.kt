@@ -7,12 +7,26 @@ import java.nio.charset.StandardCharsets
 
 class Notifier {
   private val token: String? = System.getenv("TELEGRAM_BOT_TOKEN")
-  private val chatId: String? = System.getenv("TELEGRAM_CHAT_ID")
+  private val chatIds: List<String> = (System.getenv("TELEGRAM_CHAT_ID") ?: "")
+    .split(",")
+    .map { it.trim() }
+    .filter { it.isNotEmpty() }
 
   fun send(message: String) {
-    if (token.isNullOrBlank() || chatId.isNullOrBlank()) return
+    val token = this.token?.takeIf { it.isNotBlank() } ?: return
+    if (chatIds.isEmpty()) return
 
-    val body = "chat_id=${encode(chatId)}&text=${encode(message.take(MAX_LENGTH))}"
+    val text = message.take(MAX_LENGTH)
+    val errors = mutableListOf<String>()
+    chatIds.forEach { chatId ->
+      runCatching { sendTo(token, chatId, text) }
+        .onFailure { errors.add("$chatId: ${it.message}") }
+    }
+    check(errors.isEmpty()) { "Telegram sendMessage failed: ${errors.joinToString("; ")}" }
+  }
+
+  private fun sendTo(token: String, chatId: String, text: String) {
+    val body = "chat_id=${encode(chatId)}&text=${encode(text)}"
     val request = HttpRequest.newBuilder()
       .uri(URI("https://api.telegram.org/bot$token/sendMessage"))
       .header("Content-Type", "application/x-www-form-urlencoded")
@@ -20,7 +34,7 @@ class Notifier {
       .build()
     val response = HttpClient.newHttpClient().send(request, HttpResponse.BodyHandlers.ofString())
     check(response.statusCode() in 200..299) {
-      "Telegram sendMessage failed: ${response.statusCode()} ${response.body()}"
+      "${response.statusCode()} ${response.body()}"
     }
   }
 
