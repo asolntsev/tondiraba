@@ -1,16 +1,19 @@
 import com.codeborne.selenide.Configuration
 import com.codeborne.selenide.Selenide.open
 import com.codeborne.selenide.WebDriverRunner
+import org.openqa.selenium.chrome.ChromeOptions
 import org.slf4j.LoggerFactory
 import java.io.File
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
-import java.util.Locale
+import java.util.*
 
 fun main() {
   val log = LoggerFactory.getLogger("Main")
 
   Configuration.headless = true
+  Configuration.browserCapabilities = ChromeOptions().addArguments("--no-sandbox")
+
   open("https://tondirabaicehall.ee/veebikalender/")
 
   val parser = Parser()
