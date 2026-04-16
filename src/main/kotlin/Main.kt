@@ -19,6 +19,11 @@ fun main() {
   val parser = Parser()
   val days = parser.read(WebDriverRunner.source()!!.byteInputStream())
 
+  if (days.isNotEmpty() && days.all { it.slots.isEmpty() }) {
+    log.warn("Timetable looks empty for all {} days — skipping update to avoid wiping stored schedule", days.size)
+    return
+  }
+
   val dir = File(".days")
   dir.mkdirs()
 
