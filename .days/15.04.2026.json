@@ -2,6 +2,11 @@
     "date": "15.04.2026",
     "slots": [
         {
+            "type": "EstIce Club MTÜ",
+            "start": "15.04.2026 07:00",
+            "resource": "TJH hall 2"
+        },
+        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "15.04.2026 08:00",
             "resource": "TJH hall 2"
@@ -10,16 +15,6 @@
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "15.04.2026 12:40",
             "resource": "TJH hall 2"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "15.04.2026 17:35",
-            "resource": "TJH Peaareen"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "15.04.2026 19:00",
-            "resource": "TJH Hall 1"
         },
         {
             "type": "Vabajää",

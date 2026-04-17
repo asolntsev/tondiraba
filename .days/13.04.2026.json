@@ -22,19 +22,9 @@
             "resource": "TJH Hall 1"
         },
         {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "13.04.2026 11:00",
-            "resource": "TJH hall 2"
-        },
-        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "13.04.2026 12:20",
             "resource": "TJH hall 2"
-        },
-        {
-            "type": "MTÜ Eesti Uisuliit",
-            "start": "13.04.2026 17:35",
-            "resource": "TJH Peaareen"
         }
     ]
 }
