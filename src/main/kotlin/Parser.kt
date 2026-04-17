@@ -4,7 +4,7 @@ import java.io.InputStream
 
 class Parser {
   private companion object {
-    private val TYPES_OF_INTEREST = arrayOf("Vabajää", "MTÜ Eesti Uisuliit", "Ilu. vabajää", "Iluuisutamisklubi Talveunistus")
+    private val TYPES_OF_INTEREST = arrayOf("Vabajää", "Ilu. vabajää", "Iluuisutamisklubi Talveunistus", "EstIce Club MTÜ")
   }
 
   fun read(sourceHtml: InputStream): List<Day> {
