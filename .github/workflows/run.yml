@@ -54,7 +54,7 @@ jobs:
       env:
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      run: ./gradlew run
+      run: ./gradlew run --info
     - name: Log results
       shell: bash
       run: |
@@ -69,3 +69,11 @@ jobs:
         commit_message: "Update schedule"
         skip_fetch: true
         skip_checkout: true
+    - uses: actions/upload-artifact@v7
+      if: failure()
+      with:
+        name: test-report
+        retention-days: 7
+        path: |
+          **/build/reports
+          **/build/test-results

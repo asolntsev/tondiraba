@@ -20,7 +20,7 @@ jobs:
     - name: Run tests
       run: ./gradlew check
     - uses: actions/upload-artifact@v7
-      if: always()
+      if: failure()
       with:
         name: test-report
         retention-days: 7
