@@ -12,7 +12,7 @@ fun main() {
   val log = LoggerFactory.getLogger("Main")
 
   Configuration.headless = true
-  Configuration.browserCapabilities = ChromeOptions().addArguments("--no-sandbox")
+  Configuration.browserCapabilities = ChromeOptions().addArguments("--no-sandbox", "--disable-gpu")
 
   open("https://tondirabaicehall.ee/veebikalender/")
 
