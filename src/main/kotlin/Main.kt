@@ -11,6 +11,7 @@ import java.util.*
 fun main() {
   val log = LoggerFactory.getLogger("Main")
 
+  System.setProperty("webdriver.httpclient.connectionTimeout", "1")
   Configuration.headless = true
   Configuration.browserCapabilities = ChromeOptions().addArguments("--no-sandbox", "--disable-gpu")
 
