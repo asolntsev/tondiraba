@@ -2,11 +2,6 @@
     "date": "15.04.2026",
     "slots": [
         {
-            "type": "EstIce Club MTÜ",
-            "start": "15.04.2026 07:00",
-            "resource": "TJH hall 2"
-        },
-        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "15.04.2026 08:00",
             "resource": "TJH hall 2"
