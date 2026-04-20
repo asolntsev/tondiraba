@@ -2,7 +2,7 @@
     "date": "24.04.2026",
     "slots": [
         {
-            "type": "Vabajää",
+            "type": "Ilu. vabajää",
             "start": "24.04.2026 08:00",
             "resource": "TJH hall 2"
         },
@@ -20,6 +20,11 @@
             "type": "Vabajää",
             "start": "24.04.2026 11:00",
             "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "24.04.2026 13:15",
+            "resource": "TJH hall 2"
         },
         {
             "type": "Iluuisutamisklubi Talveunistus",
