@@ -22,6 +22,11 @@
             "resource": "TJH Hall 1"
         },
         {
+            "type": "Ilu. vabajää",
+            "start": "01.05.2026 11:00",
+            "resource": "TJH hall 2"
+        },
+        {
             "type": "Vabajää",
             "start": "01.05.2026 12:00",
             "resource": "TJH hall 2"
