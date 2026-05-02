@@ -2,7 +2,9 @@ import com.codeborne.selenide.Configuration
 import com.codeborne.selenide.Selenide
 import com.codeborne.selenide.WebDriverRunner
 import com.microsoft.playwright.BrowserType
+import com.microsoft.playwright.Page
 import com.microsoft.playwright.Playwright
+import com.microsoft.playwright.options.WaitUntilState
 import org.openqa.selenium.chrome.ChromeOptions
 
 fun fetchWithPlaywright(url: String): String =
@@ -12,7 +14,9 @@ fun fetchWithPlaywright(url: String): String =
         .setHeadless(true)
         .setArgs(listOf("--no-sandbox", "--disable-gpu"))
     )
-    val source = browser.newPage().also { it.navigate(url) }.content()
+    val page = browser.newPage()
+    page.navigate(url, Page.NavigateOptions().setWaitUntil(WaitUntilState.DOMCONTENTLOADED))
+    val source = page.content()
     browser.close()
     source
   }
