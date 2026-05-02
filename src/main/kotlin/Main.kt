@@ -1,24 +1,21 @@
-import com.codeborne.selenide.Configuration
-import com.codeborne.selenide.Selenide.open
-import com.codeborne.selenide.WebDriverRunner
-import org.openqa.selenium.chrome.ChromeOptions
+import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import java.io.File
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
 import java.util.*
 
+private const val URL = "https://tondirabaicehall.ee/veebikalender/"
+
 fun main() {
   val log = LoggerFactory.getLogger("Main")
 
-  System.setProperty("webdriver.httpclient.connectionTimeout", "1")
-  Configuration.headless = true
-  Configuration.browserCapabilities = ChromeOptions().addArguments("--no-sandbox", "--disable-gpu")
-
-  open("https://tondirabaicehall.ee/veebikalender/")
+  timedFetch(log, "Playwright") { fetchWithPlaywright(URL) }
+  val source = timedFetch(log, "Selenide") { fetchWithSelenide(URL) }
+    ?: error("Selenide fetch failed — see log above")
 
   val parser = Parser()
-  val days = parser.read(WebDriverRunner.source()!!.byteInputStream())
+  val days = parser.read(source.byteInputStream())
 
   if (days.isNotEmpty() && days.all { it.slots.isEmpty() }) {
     log.warn("Timetable looks empty for all {} days — skipping update to avoid wiping stored schedule", days.size)
@@ -47,6 +44,18 @@ fun main() {
 
   if (changes.isNotEmpty()) {
     Notifier().send(changes.joinToString("\n\n") + "\n\n" + Quotes.random())
+  }
+}
+
+private fun timedFetch(log: Logger, name: String, fetch: () -> String): String? {
+  val start = System.currentTimeMillis()
+  return try {
+    val source = fetch()
+    log.info("{} OK in {} ms ({} chars)", name, System.currentTimeMillis() - start, source.length)
+    source
+  } catch (e: Exception) {
+    log.warn("{} FAILED after {} ms: {}", name, System.currentTimeMillis() - start, e.toString())
+    null
   }
 }
 

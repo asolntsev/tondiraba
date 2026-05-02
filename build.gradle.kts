@@ -14,6 +14,7 @@ repositories {
 dependencies {
     testImplementation(kotlin("test"))
     implementation("com.codeborne:selenide:7.16.0")
+    implementation("com.microsoft.playwright:playwright:1.52.0")
     implementation("org.jsoup:jsoup:1.22.2")
     implementation(libs.kotlinx.serialization.json)
     runtimeOnly("org.slf4j:slf4j-simple:2.0.17")
@@ -30,4 +31,11 @@ kotlin {
 
 application {
     mainClass.set("MainKt")
+}
+
+tasks.register<JavaExec>("benchmark") {
+    group = "application"
+    description = "Compare Playwright vs Selenide page load times"
+    classpath = sourceSets["main"].runtimeClasspath
+    mainClass.set("BenchmarkKt")
 }
