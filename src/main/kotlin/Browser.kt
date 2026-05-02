@@ -20,6 +20,7 @@ fun fetchWithPlaywright(url: String): String =
 fun fetchWithSelenide(url: String): String {
   System.setProperty("webdriver.httpclient.connectionTimeout", "1")
   Configuration.headless = true
+  Configuration.pageLoadStrategy = "eager"
   Configuration.browserCapabilities = ChromeOptions().addArguments("--no-sandbox", "--disable-gpu")
   Selenide.open(url)
   val source = WebDriverRunner.source()!!
