@@ -32,7 +32,7 @@ fun main() {
   val changes = mutableListOf<String>()
 
   days.forEach { day ->
-    val dayFile = File(dir, "${day.date}.json")
+    val dayFile = File(dir, "${fileName(day.date)}.json")
     val previous: Day? = dayFile.takeIf { it.exists() }?.readText()?.let { Day.deserialize(it) }
     if (previous == null) {
       log.info("Look! A new day has come: {}", day)
@@ -65,6 +65,10 @@ private fun timedFetch(log: Logger, name: String, fetch: () -> String): String? 
 
 private val inputDate = DateTimeFormatter.ofPattern("dd.MM.yyyy")
 private val outputDate = DateTimeFormatter.ofPattern("EEE d MMM", Locale.ENGLISH)
+private val fileDate = DateTimeFormatter.ISO_LOCAL_DATE
+
+private fun fileName(date: String): String =
+  LocalDate.parse(date, inputDate).format(fileDate)
 
 private fun formatNewDay(day: Day): String = buildString {
   append(formatDate(day.date))

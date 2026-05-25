@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Purpose
 
-Scrapes the public ice-rink schedule at https://tondirabaicehall.ee/veebikalender/ and records slots of interest (`Vabajää`, `MTÜ Eesti Uisuliit`, `Ilu. vabajää`, `Iluuisutamisklubi Talveunistus`) as JSON files under `.days/`, one file per day (named `DD.MM.YYYY.json`). A GitHub Actions workflow runs the scraper on a cron schedule and auto-commits any changed JSON files back to `main`, so the git history itself is the change log of rink bookings.
+Scrapes the public ice-rink schedule at https://tondirabaicehall.ee/veebikalender/ and records slots of interest (`Vabajää`, `MTÜ Eesti Uisuliit`, `Ilu. vabajää`, `Iluuisutamisklubi Talveunistus`) as JSON files under `.days/`, one file per day (named `YYYY-MM-DD.json` so they sort naturally; the `date` field inside the JSON stays in the source format `DD.MM.YYYY`). A GitHub Actions workflow runs the scraper on a cron schedule and auto-commits any changed JSON files back to `main`, so the git history itself is the change log of rink bookings.
 
 ## Commands
 
