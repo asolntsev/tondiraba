@@ -1,0 +1,20 @@
+{
+    "date": "31.05.2026",
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "31.05.2026 09:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "31.05.2026 10:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "31.05.2026 18:30",
+            "resource": "TJH Peaareen"
+        }
+    ]
+}
