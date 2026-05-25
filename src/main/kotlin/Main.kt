@@ -17,7 +17,11 @@ fun main() {
   val parser = Parser()
   val days = parser.read(source.byteInputStream())
 
-  if (days.isNotEmpty() && days.all { it.slots.isEmpty() }) {
+  if (days.isEmpty()) {
+    log.warn("No day columns parsed — page structure may have changed or calendar XHR did not render. Skipping update.")
+    return
+  }
+  if (days.all { it.slots.isEmpty() }) {
     log.warn("Timetable looks empty for all {} days — skipping update to avoid wiping stored schedule", days.size)
     return
   }
