@@ -5,6 +5,16 @@
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "30.05.2026 13:00",
             "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "30.05.2026 15:45",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "30.05.2026 18:45",
+            "resource": "TJH hall 2"
         }
     ]
 }
