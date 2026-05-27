@@ -48,6 +48,11 @@
         },
         {
             "type": "Iluuisutamisklubi Talveunistus",
+            "start": "28.05.2026 17:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
             "start": "28.05.2026 20:10",
             "resource": "TJH hall 2"
         }
