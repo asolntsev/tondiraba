@@ -1,0 +1,20 @@
+{
+    "date": "06.06.2026",
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "06.06.2026 09:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "06.06.2026 12:35",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "06.06.2026 17:45",
+            "resource": "TJH hall 2"
+        }
+    ]
+}
