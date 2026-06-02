@@ -40,6 +40,11 @@
             "type": "EstIce Club MTÜ",
             "start": "03.06.2026 16:05",
             "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "03.06.2026 16:45",
+            "resource": "TJH hall 2"
         }
     ]
 }
