@@ -13,7 +13,7 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"))
-    implementation("com.codeborne:selenide:7.16.1")
+    implementation("com.codeborne:selenide:7.16.2")
     implementation("com.microsoft.playwright:playwright:1.60.0")
     implementation("org.jsoup:jsoup:1.22.2")
     implementation(libs.kotlinx.serialization.json)
