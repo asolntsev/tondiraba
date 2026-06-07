@@ -1,0 +1,35 @@
+{
+    "date": "12.06.2026",
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "12.06.2026 09:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "12.06.2026 10:45",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "12.06.2026 12:20",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "12.06.2026 13:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "12.06.2026 14:30",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "EstIce Club MTÜ",
+            "start": "12.06.2026 16:30",
+            "resource": "TJH hall 2"
+        }
+    ]
+}
