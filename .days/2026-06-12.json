@@ -2,6 +2,11 @@
     "date": "12.06.2026",
     "slots": [
         {
+            "type": "Vabajää",
+            "start": "12.06.2026 08:00",
+            "resource": "TJH Peaareen"
+        },
+        {
             "type": "Ilu. vabajää",
             "start": "12.06.2026 09:00",
             "resource": "TJH Peaareen"
