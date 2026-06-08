@@ -40,6 +40,11 @@
             "type": "Vabajää",
             "start": "10.06.2026 17:00",
             "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "10.06.2026 19:00",
+            "resource": "TJH Hall 1"
         }
     ]
 }
