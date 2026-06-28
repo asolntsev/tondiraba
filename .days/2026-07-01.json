@@ -1,0 +1,25 @@
+{
+    "date": "01.07.2026",
+    "slots": [
+        {
+            "type": "EstIce Club MTÜ",
+            "start": "01.07.2026 10:50",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "01.07.2026 15:50",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "01.07.2026 16:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "01.07.2026 18:50",
+            "resource": "TJH hall 2"
+        }
+    ]
+}
