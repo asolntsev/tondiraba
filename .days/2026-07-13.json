@@ -1,0 +1,30 @@
+{
+    "date": "13.07.2026",
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "13.07.2026 10:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "13.07.2026 12:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "13.07.2026 15:30",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "13.07.2026 17:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "13.07.2026 18:00",
+            "resource": "TJH Hall 1"
+        }
+    ]
+}
