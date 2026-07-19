@@ -1,0 +1,15 @@
+{
+    "date": "24.07.2026",
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "24.07.2026 13:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "24.07.2026 15:00",
+            "resource": "TJH hall 2"
+        }
+    ]
+}
