@@ -1,0 +1,25 @@
+{
+    "date": "27.07.2026",
+    "slots": [
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "27.07.2026 11:50",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "27.07.2026 12:50",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "27.07.2026 15:50",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "27.07.2026 18:50",
+            "resource": "TJH hall 2"
+        }
+    ]
+}
