@@ -17,12 +17,12 @@
             "resource": "TJH hall 2"
         },
         {
-            "type": "Ilu. vabajää",
+            "type": "Iluuisutamisklubi Talveunistus",
             "start": "31.07.2026 16:00",
             "resource": "TJH Hall 1"
         },
         {
-            "type": "Vabajää",
+            "type": "Ilu. vabajää",
             "start": "31.07.2026 17:00",
             "resource": "TJH Hall 1"
         },
@@ -30,6 +30,11 @@
             "type": "Ilu. vabajää",
             "start": "31.07.2026 17:50",
             "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "31.07.2026 18:00",
+            "resource": "TJH Hall 1"
         },
         {
             "type": "Vabajää",
