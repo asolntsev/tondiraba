@@ -10,6 +10,11 @@
             "type": "Vabajää",
             "start": "02.08.2026 17:00",
             "resource": "TJH hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "02.08.2026 18:00",
+            "resource": "TJH hall 2"
         }
     ]
 }
