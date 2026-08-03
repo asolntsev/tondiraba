@@ -10,12 +10,12 @@ private const val URL = "https://tondirabaicehall.ee/veebikalender/"
 fun main() {
   val log = LoggerFactory.getLogger("Main")
 
-  timedFetch(log, "Playwright") { fetchWithPlaywright(URL) }
-  val source = timedFetch(log, "Selenide") { fetchWithSelenide(URL) }
+  timedFetch(log, "Playwright", String::length) { fetchWithPlaywright(URL) }
+  val sources = timedFetch(log, "Selenide", { it.sumOf(String::length) }) { fetchWithSelenide(URL) }
     ?: error("Selenide fetch failed — see log above")
 
   val parser = Parser()
-  val days = parser.read(source.byteInputStream())
+  val days = sources.flatMap { parser.read(it.byteInputStream()) }
 
   if (days.isEmpty()) {
     log.warn("No day columns parsed — page structure may have changed or calendar XHR did not render. Skipping update.")
@@ -51,12 +51,12 @@ fun main() {
   }
 }
 
-private fun timedFetch(log: Logger, name: String, fetch: () -> String): String? {
+private fun <T> timedFetch(log: Logger, name: String, size: (T) -> Int, fetch: () -> T): T? {
   val start = System.currentTimeMillis()
   return try {
-    val source = fetch()
-    log.info("{} OK in {} ms ({} chars)", name, System.currentTimeMillis() - start, source.length)
-    source
+    val result = fetch()
+    log.info("{} OK in {} ms ({} chars)", name, System.currentTimeMillis() - start, size(result))
+    result
   } catch (e: Exception) {
     log.warn("{} FAILED after {} ms: {}", name, System.currentTimeMillis() - start, e.toString())
     null
