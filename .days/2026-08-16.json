@@ -1,4 +1,10 @@
 {
     "date": "16.08.2026",
-    "slots": []
+    "slots": [
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "16.08.2026 17:00",
+            "resource": "TJH Hall 1"
+        }
+    ]
 }
