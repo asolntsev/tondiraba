@@ -2,6 +2,11 @@
     "date": "07.08.2026",
     "slots": [
         {
+            "type": "Ilu. vabajää",
+            "start": "07.08.2026 07:50",
+            "resource": "TJH hall 2"
+        },
+        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "07.08.2026 11:50",
             "resource": "TJH hall 2"

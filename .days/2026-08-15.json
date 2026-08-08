@@ -1,4 +1,10 @@
 {
     "date": "15.08.2026",
-    "slots": []
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "15.08.2026 07:50",
+            "resource": "TJH Hall 1"
+        }
+    ]
 }
