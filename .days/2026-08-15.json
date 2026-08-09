@@ -1,4 +1,20 @@
 {
     "date": "15.08.2026",
-    "slots": []
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "15.08.2026 08:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "15.08.2026 09:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "15.08.2026 12:00",
+            "resource": "TJH hall 2"
+        }
+    ]
 }
