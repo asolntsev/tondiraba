@@ -1,20 +1,4 @@
 {
     "date": "10.08.2026",
-    "slots": [
-        {
-            "type": "Vabajää",
-            "start": "10.08.2026 08:00",
-            "resource": "TJH Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "10.08.2026 12:50",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "10.08.2026 16:00",
-            "resource": "TJH Hall 1"
-        }
-    ]
+    "slots": []
 }
