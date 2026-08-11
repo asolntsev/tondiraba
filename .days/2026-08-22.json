@@ -1,4 +1,15 @@
 {
     "date": "22.08.2026",
-    "slots": []
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "22.08.2026 12:30",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "22.08.2026 17:30",
+            "resource": "TJH hall 2"
+        }
+    ]
 }

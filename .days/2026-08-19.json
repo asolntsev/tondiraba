@@ -2,8 +2,18 @@
     "date": "19.08.2026",
     "slots": [
         {
+            "type": "Ilu. vabajää",
+            "start": "19.08.2026 08:00",
+            "resource": "TJH Peaareen"
+        },
+        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "19.08.2026 11:50",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "19.08.2026 13:50",
             "resource": "TJH hall 2"
         },
         {
