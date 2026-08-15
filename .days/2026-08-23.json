@@ -1,4 +1,20 @@
 {
     "date": "23.08.2026",
-    "slots": []
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "23.08.2026 11:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "23.08.2026 18:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "23.08.2026 19:00",
+            "resource": "TJH Hall 1"
+        }
+    ]
 }
