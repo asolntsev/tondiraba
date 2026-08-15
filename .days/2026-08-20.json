@@ -1,40 +1,4 @@
 {
     "date": "20.08.2026",
-    "slots": [
-        {
-            "type": "EstIce Club MTÜ",
-            "start": "20.08.2026 09:15",
-            "resource": "TJH Peaareen"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "20.08.2026 11:50",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "Vabajää",
-            "start": "20.08.2026 13:15",
-            "resource": "TJH Peaareen"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "20.08.2026 13:50",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "20.08.2026 14:30",
-            "resource": "TJH Hall 1"
-        },
-        {
-            "type": "Vabajää",
-            "start": "20.08.2026 15:30",
-            "resource": "TJH Hall 1"
-        },
-        {
-            "type": "Vabajää",
-            "start": "20.08.2026 18:50",
-            "resource": "TJH hall 2"
-        }
-    ]
+    "slots": []
 }
