@@ -1,35 +1,4 @@
 {
     "date": "26.08.2026",
-    "slots": [
-        {
-            "type": "Vabajää",
-            "start": "26.08.2026 08:20",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "26.08.2026 11:50",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "Vabajää",
-            "start": "26.08.2026 14:30",
-            "resource": "TJH Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "26.08.2026 15:30",
-            "resource": "TJH Hall 1"
-        },
-        {
-            "type": "Iluuisutamisklubi Talveunistus",
-            "start": "26.08.2026 16:50",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "26.08.2026 18:30",
-            "resource": "TJH Hall 1"
-        }
-    ]
+    "slots": []
 }
