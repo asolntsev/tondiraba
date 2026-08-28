@@ -1,4 +1,15 @@
 {
     "date": "06.09.2026",
-    "slots": []
+    "slots": [
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "06.09.2026 13:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "06.09.2026 18:30",
+            "resource": "TJH Peaareen"
+        }
+    ]
 }

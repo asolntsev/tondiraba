@@ -3,8 +3,28 @@
     "slots": [
         {
             "type": "Ilu. vabajää",
+            "start": "31.08.2026 09:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
             "start": "31.08.2026 10:00",
             "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "31.08.2026 10:30",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "31.08.2026 12:30",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "31.08.2026 17:30",
+            "resource": "TJH Hall 1"
         }
     ]
 }
