@@ -1,4 +1,10 @@
 {
     "date": "02.09.2026",
-    "slots": []
+    "slots": [
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "02.09.2026 15:05",
+            "resource": "TJH Peaareen"
+        }
+    ]
 }
