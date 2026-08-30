@@ -1,0 +1,15 @@
+{
+    "date": "11.09.2026",
+    "slots": [
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "11.09.2026 14:20",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "11.09.2026 18:00",
+            "resource": "TJH Peaareen"
+        }
+    ]
+}
