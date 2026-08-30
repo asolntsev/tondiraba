@@ -3,6 +3,11 @@
     "slots": [
         {
             "type": "Vabajää",
+            "start": "03.09.2026 07:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
             "start": "03.09.2026 09:00",
             "resource": "TJH Hall 1"
         },
@@ -15,6 +20,11 @@
             "type": "Vabajää",
             "start": "03.09.2026 11:00",
             "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "03.09.2026 19:10",
+            "resource": "TJH Hall 1"
         }
     ]
 }
