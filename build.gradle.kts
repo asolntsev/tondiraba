@@ -15,7 +15,7 @@ dependencies {
     testImplementation(kotlin("test"))
     implementation("com.codeborne:selenide:7.18.0")
     implementation("com.microsoft.playwright:playwright:1.62.0")
-    implementation("org.jsoup:jsoup:1.23.1")
+    implementation("org.jsoup:jsoup:1.23.2")
     implementation(libs.kotlinx.serialization.json)
     runtimeOnly("org.slf4j:slf4j-simple:2.0.18")
     testImplementation("org.assertj:assertj-core:3.27.7")
