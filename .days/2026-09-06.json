@@ -3,6 +3,16 @@
     "slots": [
         {
             "type": "Iluuisutamisklubi Talveunistus",
+            "start": "06.09.2026 11:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "06.09.2026 12:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
             "start": "06.09.2026 13:00",
             "resource": "TJH Peaareen"
         },

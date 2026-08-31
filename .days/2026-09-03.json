@@ -27,9 +27,19 @@
             "resource": "TJH hall 2"
         },
         {
+            "type": "Vabajää",
+            "start": "03.09.2026 12:00",
+            "resource": "TJH hall 2"
+        },
+        {
             "type": "Ilu. vabajää",
             "start": "03.09.2026 13:50",
             "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "03.09.2026 14:10",
+            "resource": "TJH Hall 1"
         }
     ]
 }
