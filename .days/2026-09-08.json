@@ -2,6 +2,36 @@
     "date": "08.09.2026",
     "slots": [
         {
+            "type": "Ilu. vabajää",
+            "start": "08.09.2026 08:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "08.09.2026 09:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "08.09.2026 10:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "08.09.2026 11:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "08.09.2026 13:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "08.09.2026 13:30",
+            "resource": "TJH Hall 1"
+        },
+        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "08.09.2026 17:45",
             "resource": "TJH hall 2"

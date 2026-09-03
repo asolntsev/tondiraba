@@ -8,8 +8,18 @@
         },
         {
             "type": "Iluuisutamisklubi Talveunistus",
+            "start": "12.09.2026 17:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Iluuisutamisklubi Talveunistus",
             "start": "12.09.2026 17:20",
             "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "12.09.2026 18:00",
+            "resource": "TJH Hall 1"
         }
     ]
 }
