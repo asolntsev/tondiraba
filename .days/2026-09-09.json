@@ -2,6 +2,11 @@
     "date": "09.09.2026",
     "slots": [
         {
+            "type": "Iluuisutamisklubi Talveunistus",
+            "start": "09.09.2026 07:10",
+            "resource": "TJH hall 2"
+        },
+        {
             "type": "Vabajää",
             "start": "09.09.2026 08:00",
             "resource": "TJH hall 2"

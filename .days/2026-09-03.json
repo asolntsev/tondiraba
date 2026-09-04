@@ -2,6 +2,11 @@
     "date": "03.09.2026",
     "slots": [
         {
+            "type": "Vabajää",
+            "start": "03.09.2026 07:00",
+            "resource": "TJH Peaareen"
+        },
+        {
             "type": "Ilu. vabajää",
             "start": "03.09.2026 08:00",
             "resource": "TJH Peaareen"
