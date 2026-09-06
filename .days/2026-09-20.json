@@ -1,0 +1,15 @@
+{
+    "date": "20.09.2026",
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "20.09.2026 15:30",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "20.09.2026 18:00",
+            "resource": "TJH Peaareen"
+        }
+    ]
+}
