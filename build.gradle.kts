@@ -17,7 +17,7 @@ dependencies {
     implementation("com.microsoft.playwright:playwright:1.62.0")
     implementation("org.jsoup:jsoup:1.23.2")
     implementation(libs.kotlinx.serialization.json)
-    runtimeOnly("org.slf4j:slf4j-simple:2.0.18")
+    runtimeOnly("org.slf4j:slf4j-simple:2.0.19")
     testImplementation("org.assertj:assertj-core:3.27.7")
 }
 
