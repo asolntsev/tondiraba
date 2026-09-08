@@ -7,6 +7,26 @@
             "resource": "TJH hall 2"
         },
         {
+            "type": "Ilu. vabajää",
+            "start": "16.09.2026 08:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "16.09.2026 09:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "16.09.2026 10:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "16.09.2026 13:00",
+            "resource": "TJH Peaareen"
+        },
+        {
             "type": "Iluuisutamisklubi Talveunistus",
             "start": "16.09.2026 15:10",
             "resource": "TJH Peaareen"
