@@ -23,6 +23,11 @@
         },
         {
             "type": "Vabajää",
+            "start": "15.09.2026 12:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
             "start": "15.09.2026 13:00",
             "resource": "TJH Peaareen"
         }
