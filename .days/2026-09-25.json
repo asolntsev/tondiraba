@@ -1,4 +1,20 @@
 {
     "date": "25.09.2026",
-    "slots": []
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "25.09.2026 08:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "25.09.2026 09:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "25.09.2026 13:00",
+            "resource": "TJH Peaareen"
+        }
+    ]
 }

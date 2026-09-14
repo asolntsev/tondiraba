@@ -2,6 +2,11 @@
     "date": "16.09.2026",
     "slots": [
         {
+            "type": "Vabajää",
+            "start": "16.09.2026 07:00",
+            "resource": "TJH hall 2"
+        },
+        {
             "type": "Ilu. vabajää",
             "start": "16.09.2026 08:00",
             "resource": "TJH hall 2"
