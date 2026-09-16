@@ -1,4 +1,10 @@
 {
     "date": "19.09.2026",
-    "slots": []
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "19.09.2026 10:20",
+            "resource": "TJH hall 2"
+        }
+    ]
 }
