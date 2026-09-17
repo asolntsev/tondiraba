@@ -13,6 +13,21 @@
         },
         {
             "type": "Vabajää",
+            "start": "22.09.2026 10:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "22.09.2026 11:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "22.09.2026 12:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
             "start": "22.09.2026 13:00",
             "resource": "TJH Peaareen"
         }
