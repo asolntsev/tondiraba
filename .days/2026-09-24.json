@@ -1,35 +1,4 @@
 {
     "date": "24.09.2026",
-    "slots": [
-        {
-            "type": "Vabajää",
-            "start": "24.09.2026 07:00",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "Vabajää",
-            "start": "24.09.2026 08:00",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "24.09.2026 09:00",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "Vabajää",
-            "start": "24.09.2026 10:00",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "24.09.2026 11:00",
-            "resource": "TJH hall 2"
-        },
-        {
-            "type": "Ilu. vabajää",
-            "start": "24.09.2026 13:00",
-            "resource": "TJH Peaareen"
-        }
-    ]
+    "slots": []
 }
