@@ -1,4 +1,25 @@
 {
     "date": "06.10.2026",
-    "slots": []
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "06.10.2026 08:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "06.10.2026 09:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "06.10.2026 10:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "06.10.2026 13:00",
+            "resource": "TJH Peaareen"
+        }
+    ]
 }
