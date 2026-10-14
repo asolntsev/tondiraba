@@ -20,6 +20,11 @@
             "type": "Ilu. vabajää",
             "start": "16.10.2026 13:00",
             "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "16.10.2026 17:35",
+            "resource": "TJH Hall 1"
         }
     ]
 }
