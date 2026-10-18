@@ -1,0 +1,20 @@
+{
+    "date": "27.10.2026",
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "27.10.2026 08:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "27.10.2026 11:40",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "27.10.2026 12:30",
+            "resource": "TJH hall 2"
+        }
+    ]
+}
