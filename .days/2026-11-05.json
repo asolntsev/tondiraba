@@ -10,6 +10,11 @@
             "type": "Vabajää",
             "start": "05.11.2026 10:10",
             "resource": "TJH hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "05.11.2026 13:00",
+            "resource": "TJH Hall 1"
         }
     ]
 }
