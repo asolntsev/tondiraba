@@ -2,11 +2,6 @@
     "date": "17.11.2026",
     "slots": [
         {
-            "type": "Vabajää",
-            "start": "17.11.2026 07:00",
-            "resource": "TJH hall 2"
-        },
-        {
             "type": "Ilu. vabajää",
             "start": "17.11.2026 07:50",
             "resource": "TJH hall 2"
