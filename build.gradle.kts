@@ -14,7 +14,7 @@ repositories {
 dependencies {
     testImplementation(kotlin("test"))
     implementation("com.codeborne:selenide:7.19.1")
-    implementation("com.microsoft.playwright:playwright:1.64.0")
+    implementation("com.microsoft.playwright:playwright:1.65.0")
     implementation("org.jsoup:jsoup:1.24.1")
     implementation(libs.kotlinx.serialization.json)
     runtimeOnly("org.slf4j:slf4j-simple:2.0.20")
