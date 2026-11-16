@@ -15,7 +15,7 @@ dependencyResolutionManagement {
   versionCatalogs {
     create("libs") {
       version("kotlin", "2.4.21")
-      library("kotlinx-serialization-json", "org.jetbrains.kotlinx:kotlinx-serialization-json:1.12.0")
+      library("kotlinx-serialization-json", "org.jetbrains.kotlinx:kotlinx-serialization-json:1.13.0")
     }
   }
 }
