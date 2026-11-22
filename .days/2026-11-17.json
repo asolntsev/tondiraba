@@ -15,6 +15,21 @@
             "type": "Vabajää",
             "start": "17.11.2026 10:10",
             "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Juna IK/ Talveunistus IK",
+            "start": "17.11.2026 14:45",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Talveunistus IK",
+            "start": "17.11.2026 17:45",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Tallinna Iluuisutamiskool/ Talveunistus IK",
+            "start": "17.11.2026 18:00",
+            "resource": "TJH Hall 1"
         }
     ]
 }

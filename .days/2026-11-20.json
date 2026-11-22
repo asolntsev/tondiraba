@@ -10,6 +10,11 @@
             "type": "Vabajää",
             "start": "20.11.2026 10:00",
             "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Talveunistus IK",
+            "start": "20.11.2026 14:20",
+            "resource": "TJH hall 2"
         }
     ]
 }

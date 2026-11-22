@@ -20,6 +20,11 @@
             "type": "Vabajää",
             "start": "23.11.2026 14:00",
             "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Talveunistus IK/ Tallinna Iluuisutamiskool",
+            "start": "23.11.2026 15:00",
+            "resource": "TJH Peaareen"
         }
     ]
 }

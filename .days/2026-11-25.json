@@ -2,6 +2,11 @@
     "date": "25.11.2026",
     "slots": [
         {
+            "type": "Talveunistus IK",
+            "start": "25.11.2026 07:00",
+            "resource": "TJH hall 2"
+        },
+        {
             "type": "Ilu. vabajää",
             "start": "25.11.2026 07:00",
             "resource": "TJH Peaareen"
@@ -19,6 +24,16 @@
         {
             "type": "Vabajää",
             "start": "25.11.2026 13:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Talveunistus IK",
+            "start": "25.11.2026 15:10",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Talveunistus IK/ Tallinna Iluuisutamiskool",
+            "start": "25.11.2026 16:10",
             "resource": "TJH Peaareen"
         }
     ]

@@ -30,6 +30,21 @@
             "type": "Ilu. vabajää",
             "start": "24.11.2026 13:00",
             "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Juna IK/ Talveunistus IK",
+            "start": "24.11.2026 14:45",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Talveunistus IK",
+            "start": "24.11.2026 17:45",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Tallinna Iluuisutamiskool/ Talveunistus IK",
+            "start": "24.11.2026 18:00",
+            "resource": "TJH Hall 1"
         }
     ]
 }

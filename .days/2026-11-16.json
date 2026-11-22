@@ -35,6 +35,11 @@
             "type": "Ilu. vabajää",
             "start": "16.11.2026 12:45",
             "resource": "TJH hall 2"
+        },
+        {
+            "type": "Talveunistus IK/ Tallinna Iluuisutamiskool",
+            "start": "16.11.2026 15:00",
+            "resource": "TJH Peaareen"
         }
     ]
 }
