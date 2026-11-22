@@ -1,0 +1,30 @@
+{
+    "date": "30.11.2026",
+    "slots": [
+        {
+            "type": "Ilu. vabajää",
+            "start": "30.11.2026 07:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "30.11.2026 08:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "30.11.2026 08:50",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Vabajää",
+            "start": "30.11.2026 10:00",
+            "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Talveunistus IK/ Tallinna Iluuisutamiskool",
+            "start": "30.11.2026 15:00",
+            "resource": "TJH Peaareen"
+        }
+    ]
+}

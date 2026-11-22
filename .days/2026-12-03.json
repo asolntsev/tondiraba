@@ -1,0 +1,30 @@
+{
+    "date": "03.12.2026",
+    "slots": [
+        {
+            "type": "Vabajää",
+            "start": "03.12.2026 09:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Vabajää",
+            "start": "03.12.2026 10:10",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "03.12.2026 13:00",
+            "resource": "TJH Hall 1"
+        },
+        {
+            "type": "Tallinna Iluuisutamiskool/ Talveunistus IK",
+            "start": "03.12.2026 14:45",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Talveunistus IK/ Juna IK",
+            "start": "03.12.2026 16:45",
+            "resource": "TJH hall 2"
+        }
+    ]
+}
