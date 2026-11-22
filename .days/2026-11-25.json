@@ -2,12 +2,12 @@
     "date": "25.11.2026",
     "slots": [
         {
-            "type": "Talveunistus IK",
+            "type": "Ilu. vabajää",
             "start": "25.11.2026 07:00",
             "resource": "TJH hall 2"
         },
         {
-            "type": "Ilu. vabajää",
+            "type": "Talveunistus IK",
             "start": "25.11.2026 07:00",
             "resource": "TJH Peaareen"
         },
