@@ -24,4 +24,54 @@ class ParserTest {
       )
     )
   }
+
+  @Test
+  fun tracksTalveunistusUnderAnyName() {
+    val names = listOf(
+      "Talveunistus IK",
+      "Juna IK/ Talveunistus IK",
+      "Talveunistus IK/ Tallinna Iluuisutamiskool",
+      "Tallinna Iluuisutamiskool/ Talveunistus",
+      "Iluuisutamisklubi Talveunistus",
+      "Tallinna Iluuisutamiskool",
+      "Juna IK",
+      "Eesti Uisuliit",
+      "Laste vabahoki (4-14 a.v)",
+    )
+
+    val days = parser.read(html("23.11.2026", names).byteInputStream())
+
+    assertThat(days.single().slots.map { it.type }).containsExactly(
+      "Talveunistus IK",
+      "Juna IK/ Talveunistus IK",
+      "Talveunistus IK/ Tallinna Iluuisutamiskool",
+      "Tallinna Iluuisutamiskool/ Talveunistus",
+      "Iluuisutamisklubi Talveunistus",
+    )
+  }
+
+  @Test
+  fun tracksExactTypesOnly() {
+    val names = listOf("Vabajää", "Ilu. vabajää", "EstIce Club MTÜ", "Täisk. vabahoki", "Vabajää lastele")
+
+    val days = parser.read(html("23.11.2026", names).byteInputStream())
+
+    assertThat(days.single().slots.map { it.type }).containsExactly("Vabajää", "Ilu. vabajää", "EstIce Club MTÜ")
+  }
+
+  private fun html(date: String, names: List<String>): String {
+    val events = names.withIndex().joinToString("\n") { (i, name) ->
+      """<div class="CCALevent" data-name="$name" data-start="$date ${"%02d".format(8 + i)}:00" data-resource="Hall 1"></div>"""
+    }
+    return """
+      <html><body>
+        <div class="CCALdayCol">
+          <div class="CCALcolHeader"><span class="date">$date</span></div>
+          <div class="CCALhour"><div class="CCALinterval">
+            $events
+          </div></div>
+        </div>
+      </body></html>
+    """
+  }
 }
