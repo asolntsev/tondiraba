@@ -2,7 +2,7 @@
     "date": "01.12.2026",
     "slots": [
         {
-            "type": "Vabajää",
+            "type": "Ilu. vabajää",
             "start": "01.12.2026 07:00",
             "resource": "TJH hall 2"
         },
@@ -17,9 +17,19 @@
             "resource": "TJH hall 2"
         },
         {
+            "type": "Ilu. vabajää",
+            "start": "01.12.2026 09:00",
+            "resource": "TJH Peaareen"
+        },
+        {
             "type": "Vabajää",
             "start": "01.12.2026 10:10",
             "resource": "TJH hall 2"
+        },
+        {
+            "type": "Vabajää",
+            "start": "01.12.2026 10:00",
+            "resource": "TJH Peaareen"
         },
         {
             "type": "Ilu. vabajää",

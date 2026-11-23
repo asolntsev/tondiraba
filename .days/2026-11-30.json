@@ -13,13 +13,23 @@
         },
         {
             "type": "Vabajää",
-            "start": "30.11.2026 08:50",
+            "start": "30.11.2026 10:00",
             "resource": "TJH Peaareen"
         },
         {
             "type": "Vabajää",
-            "start": "30.11.2026 10:00",
+            "start": "30.11.2026 11:00",
             "resource": "TJH Peaareen"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "30.11.2026 12:00",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Ilu. vabajää",
+            "start": "30.11.2026 13:00",
+            "resource": "TJH hall 2"
         },
         {
             "type": "Talveunistus IK/ Tallinna Iluuisutamiskool",
