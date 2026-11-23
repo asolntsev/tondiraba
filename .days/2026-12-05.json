@@ -1,4 +1,15 @@
 {
     "date": "05.12.2026",
-    "slots": []
+    "slots": [
+        {
+            "type": "Talveunistus IK",
+            "start": "05.12.2026 16:20",
+            "resource": "TJH hall 2"
+        },
+        {
+            "type": "Talveunistus IK",
+            "start": "05.12.2026 17:20",
+            "resource": "TJH hall 2"
+        }
+    ]
 }
